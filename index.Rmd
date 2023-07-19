@@ -1,5 +1,5 @@
 ---
-title: "LING 2200"
+title: "LING 4230"
 output: 
   html_document:
     includes:
@@ -26,7 +26,7 @@ output:
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Introduction to Speech and Language Sciences**
+# **Language and the Brain**
 
 Tuesdays & Thursdays, 11:30-1pm\
 Ross Building, South Rm. 123\
@@ -46,6 +46,6 @@ This site is meant to serve as a supplement to the delivered lectures and associ
 </div>
 <div class="col-sm-6">
 
-![](images/facemodel.jpg)
+![](images/brain_tongue.jpg)
 </a>
 </div>
