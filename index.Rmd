@@ -28,11 +28,11 @@ output:
 
 # **Language and the Brain**
 
-Tuesdays & Thursdays, 11:30-1pm\
-Ross Building, South Rm. 123\
+Mondays, 2:30-5:30pm\
+Health, Nursing, and Environmental Studies (HNE) Building, Rm. 104\
 Instructor: [Chandan Narayan](https://ch-narayan.github.io)\
 Contact: [chandann@yorku.ca](mailto:chandann@yorku.ca)\
-[Course outline and schedule](LING2200syllabus.html)
+[Course outline and schedule](LING4230syllabus.html)
 
 ### About
 
