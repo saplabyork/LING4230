@@ -37,17 +37,17 @@ Office hours: Tuesdays and Thursdays 10-11am [Zoom link](https://yorku.zoom.us/j
 ***
 
 ## Course description:
-This course is a rigorous introduction to key aspects of speech sciences, including acoustic phonetics, speech perception, speech production and audition, the brain and language, as well as fundamental concepts in speech-language development and disorders. The relationship between speech and abstract levels of language, such as syntax and phonology, is also considered though it is not the focus of the course. Specific topics include speech anatomy and aerodynamics, the speech chain, source-filter theory, auditory transduction, and theories of speech production and perception. The course also provides an overview of research methodologies for the analysis of speech, including instrumental techniques such as acoustic analysis with PRAAT.
+This content of this course is intended as a seminar surveying various topics in Language and the Brain (or psycholinguistics more broadly). We examine questions like: What are the mental processes that underlie language and what are their behavioral correlates? What brain structures are associated with language? We will read primary research articles, both “classic” and current, that address various problems and issues in linguistic functions and their psychological and neurological underpinnings. The course follows the speech chain beginning with basic audition, speech perception and phonological processing, into higher levels of syntactic and semantic processing. The course also addresses research in bi-/multilingualism as well as language disorders, such as aphasia.
 
 ## Course prerequisites:
-LING 1000 and PSYC 1010. This class is predicated on your knowing some fundamental concepts in Linguistics and/or Psychology. Therefore, you must have all the prerequisite courses in order to take this class. Special exceptions are made on a case-by-case basis.
+You must have taken LING 2120 (Phonology), LING 2140 (Syntax 1) and LING 3220/PSYC 3290 (Psycholinguistics) with grades of C+ or better; and at least three additional credits in linguistics (AP/LING) at the 3000 level with grades of C+ or better.
 
-## Learning outcomes:
+<!-- ## Learning outcomes: -->
 
-1. Demonstrate knowledge of the mechanics and physics of speech production and theories of perception
-2. Demonstrate knowledge of the concepts and methods used in the qualitative analysis of speech sounds
-3. Demonstrate knowledge of speech anatomy
-4. Demonstrate elementary knowledge of speech-language development and disorders
+<!-- 1. Demonstrate knowledge of the mechanics and physics of speech production and theories of perception -->
+<!-- 2. Demonstrate knowledge of the concepts and methods used in the qualitative analysis of speech sounds -->
+<!-- 3. Demonstrate knowledge of speech anatomy -->
+<!-- 4. Demonstrate elementary knowledge of speech-language development and disorders -->
 
 ## Evaluation
 

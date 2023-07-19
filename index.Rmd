@@ -36,7 +36,10 @@ Contact: [chandann@yorku.ca](mailto:chandann@yorku.ca)\
 
 ### About
 
-This course is a rigorous introduction to key aspects of speech sciences, including acoustic phonetics, speech perception, speech production and audition, the brain and language, as well as fundamental concepts in speech-language development and disorders. The relationship between speech and abstract levels of language, such as syntax and phonology, is also considered though it is not the focus of the course. Specific topics include speech anatomy and aerodynamics, the speech chain, source-filter theory, auditory transduction, and theories of speech production and perception. The course also provides an overview of research methodologies for the analysis of speech, including instrumental techniques such as acoustic analysis with PRAAT.
+This seminar is an introduction to the relationship between neural structures, speech, and language behaviors (more broadly *psycholinguistics*).We examine questions like: What are the mental processes that underlie language and what are their behavioral correlates? What brain structures are associated with language? We will read primary research articles, both “classic” and current, that address various problems and issues in linguistic functions and their psychological and neurological underpinnings. The course follows the speech chain beginning with basic audition, speech perception and phonological processing, into higher levels of syntactic and semantic processing. The course also addresses research in bi-/multilingualism as well as language disorders, such as aphasia.
+
+**It’s imperative that you have the appropriate background to participate in the is course. We won't be spending any time on the basics of phonetics, phonology, or syntax as you’re expected to know this.**
+
 
 ### How to use this site
 
