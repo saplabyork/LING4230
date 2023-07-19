@@ -1,0 +1,56 @@
+---
+title: "Final test review"
+output:
+  html_document:
+    includes:
+      in_header: "favicon.html"
+    theme: paper
+    toc: true
+    toc_float: true
+    collapsed: true
+    number_sections: false
+    toc_depth: 3
+    #code_folding: hide
+---
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+
+# Cumulative test
+
+The final test is cumulative, with equal distribution of material from across the early and later weeks of the course. The test will be in class and you will have 1.5hrs to complete it. 
+
+Here are some of the concepts that will definitely be on the test:
+
+1. Relationship between force, mass, and acceleration [Lec 1](lecture1.html)
+2. Voice onset time--what it means, what it reflects in terms of oral cavity volume and pressure, how it works in languages [Lec 13](lecture13.html#Voice_onset_time)
+3. Boyle's law [Lec 1](lecture1.html#Boyle’s_Law)
+4. RMS amplitude [Lec 3](lecture3.html#RMS_amplitude)
+5. Relationship between period and frequency [Lec 1](lecture1.html#Period)
+6. Relationship between frequency and wavelength [Lec 1](lecture1.html#Wavelength)
+7. Glottal spectrum [Lec 8](lecture8.html#Spectrum)
+8. Amplitude rolloff of glottal spectrum
+9. Organization of basilar membrane [Lec 10](lecture10.html#Basilar_membrane)
+10. Resonances of closed and open tubes [Lec 5](lecture5.html#Tube_resonance)
+11. Acoustic characteristics of voicing [Lec 13](lecture13.html#Trading_relationships)
+12. Narrow vs. wide-band spectral representation [Lec 12](lecture12.html#The_spectrogram)
+13. The process of audition [Lec 10](lecture10.html)
+14. Theories of speech perception [Lec 16](lecture16.html)
+15. Categorical perception--what it means, evidence from consonants [Lec 13](lecture13.html#Categorical_perception)
+16. Acoustic features of consonants [Lec 13](lecture13.html#Perception_of_consonants)
+17. Problems of speech perception [Lec 11](lecture11.html#Problems_of_speech_perception)
+18. The process of sound transduction to the inner ear [Lec 10](lecture10.html#Ossicles)
+19. Ear anatomy [Lec 10](lecture10.html#Anatomy_of_the_ear)
+20. Theories of phonation/vocal fold oscillation [Lec 8](lecture8.html)
+21. Conversion from absolute intensity to dB [Lec 3](lecture3.html#Decibels)
+
+# Practice problems
+Use 330m/s as the speed of sound.
+
+1. If you wanted to amplify the 400Hz component of a complex periodic that is introduced to an open-open tube, how long (in cm) should the tube be? 
+
+2. If we model the neutral vowel (schwa) as an open-closed tube, what is its length (in cm) if the third resonance is 2.6kHz.
+
+3. What would the dB reading be for a sound with an absolute intensity of $100^{-2} W/m^2$?

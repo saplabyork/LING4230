@@ -1,6 +1,6 @@
-name: "LING4230"
+name: "LING2200"
 navbar:
-  title: "LING4230"
+  title: "LING2200"
   left:
     - text: "Home"
       href: index.html
