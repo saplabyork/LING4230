@@ -37,10 +37,10 @@ Office hours: Tuesdays and Thursdays 10-11am [Zoom link](https://yorku.zoom.us/j
 ***
 
 ## Course description:
-This content of this course is intended as a seminar surveying various topics in Language and the Brain (or psycholinguistics more broadly). We examine questions like: What are the mental processes that underlie language and what are their behavioral correlates? What brain structures are associated with language? We will read primary research articles, both “classic” and current, that address various problems and issues in linguistic functions and their psychological and neurological underpinnings. The course follows the speech chain beginning with basic audition, speech perception and phonological processing, into higher levels of syntactic and semantic processing. The course also addresses research in bi-/multilingualism as well as language disorders, such as aphasia.
+This content of this course is intended as a seminar surveying various topics in Language and the Brain (or neurolinguistics more broadly). We examine questions like: What are the mental processes that underlie language and what are their behavioral correlates? What brain structures are associated with language? We will read a text book as well as primary research articles, both “classic” and current, that address various problems and issues in linguistic functions and their neurological underpinnings. The course follows the speech chain beginning with basic audition, speech perception and phonological processing, into higher levels of syntactic and semantic processing. The course also addresses research in bi-/multilingualism as well as language disorders, such as aphasia.
 
 ## Course prerequisites:
-You must have taken LING 2120 (Phonology), LING 2140 (Syntax 1) and LING 3220/PSYC 3290 (Psycholinguistics) with grades of C+ or better; and at least three additional credits in linguistics (AP/LING) at the 3000 level with grades of C+ or better.
+You must have taken LING 2120 (Phonology), LING 2140 (Syntax 1) and LING 3220/PSYC 3290 (Psycholinguistics) with grades of C+ or better; and at least three additional credits in linguistics (AP/LING) at the 3000 level with grades of C+ or better. I will be checking these prerequisites and you'll be asked to drop the course if you do not have them.
 
 <!-- ## Learning outcomes: -->
 
@@ -60,9 +60,9 @@ Your grade in the course will be determined by your performance on the following
 * 5% Class participation
 
 ## Course text and readings
-Although you are responsible for readings from the following textbook:
+The course follows closely the materials and discussion in:
 
-> Ferrand, C. (2018) Speech Science: An Integrated Approach to Theory and Clinical Practice. (Pearson)
+> Brennan, Jonathan R. (2022) Language and the Brain: A slim guide to neurolinguistics. (Oxford) 
 
 my goal is to make as much information available via [lecture notes]("docs/index.html") so as to minimize the use of the textbook. Lastly, the lecture notes will be quite comprehensive. If I do not discuss a concept in lecture, it is likely that it won’t appear in a quiz or exam. Some readings will come from outside the textbook as well. These additional readings will be made available via pdf on the course website.
 
