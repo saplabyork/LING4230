@@ -40,7 +40,7 @@ Office hours: Tuesdays and Thursdays 10-11am [Zoom link](https://yorku.zoom.us/j
 This content of this course is intended as a seminar surveying various topics in Language and the Brain (or neurolinguistics more broadly). We examine questions like: What are the mental processes that underlie language and what are their behavioral correlates? What brain structures are associated with language? We will read a text book as well as primary research articles, both “classic” and current, that address various problems and issues in linguistic functions and their neurological underpinnings. The course follows the speech chain beginning with basic audition, speech perception and phonological processing, into higher levels of syntactic and semantic processing. The course also addresses research in bi-/multilingualism as well as language disorders, such as aphasia.
 
 ## Course prerequisites:
-You must have taken LING 2120 (Phonology), LING 2140 (Syntax 1) and LING 3220/PSYC 3290 (Psycholinguistics) with grades of C+ or better; and at least three additional credits in linguistics (AP/LING) at the 3000 level with grades of C+ or better. I will be checking these prerequisites and you'll be asked to drop the course if you do not have them.
+You must have taken LING 2120 (Phonology), LING 2140 (Syntax 1) and LING 3220/PSYC 3290 (Psycholinguistics) with grades of C+ or better; and at least three additional credits in linguistics (AP/LING) at the 3000 level with grades of C+ or better. **I will be checking these prerequisites and you'll be asked to drop the course if you do not have them.**
 
 <!-- ## Learning outcomes: -->
 
