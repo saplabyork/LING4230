@@ -1,5 +1,5 @@
 ---
-title: "The Nature of Sound"
+title: "Language and the Brain--Preliminaries"
 output:
   html_document:
     includes:
@@ -23,7 +23,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 options(repos = list(CRAN="http://cran.rstudio.com/"))
 ```
 
-The first week of class we dive into our subject matter by introducing some basic concepts underlying the acoustics of speech. In order to get to there, however, we need to begin with some definitions of concepts from physics, which we will rely on for the rest of the course.
+The first two weeks of class we dive into our subject matter by introducing some basic concepts underlying the study of language as manifested in neural processes. 
 
 ***
 
