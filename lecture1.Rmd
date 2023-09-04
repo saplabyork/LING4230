@@ -1,5 +1,5 @@
 ---
-title: "Language and the Brain--Preliminaries"
+title: "Language and the Brain--Scope and History"
 output:
   html_document:
     includes:
@@ -27,8 +27,25 @@ The first two weeks of class we dive into our subject matter by introducing some
 
 ***
 
-# The Speech Chain
-The speech chain represents the nature of communicating a linguistic message via the vocal-audition apparatus.
+# Introduction
+
+* For the most part, what sets humans apart from other mammals (and really all other animals in general) is the ability to produce and comprehend language--the confluence of a lot of cognitive abilities that may or may not have a centralized control mechanism in the brain. In this class we'll see evidence for the the former, though some people believe the latter!
+
+* Humans **do** language, while other animals do other sorts of communicative systems (like the stuff you learned in LING1000...birdsong, barks, meows, vervet monkey calls, etc.)
+
+* How are we different from those animals that do not have language (as expressed in humans)? Well, we have human brains--brains that are structurally and (we'll see) functionally different from the brains of other animals. This results in our ability to manipulate abstract representations in the service of communicating ideas through some sort of expressive channel (i.e., mouths/ears, hands/eyes).
+
+* OK, then what is it about human brains that allow us to *do* language? Linguists, psychologists, and neuroscientists are interested in this question (though historically Linguists with a capital-L haven't spent too much brain power in this pursuit...we can discuss why).
+
+* We can say a lot about the relationship between language and the brain by observing how we behave given linguistic tasks and whether or not the behaviour is correlated with neural activity. This allows us to generate theories about how specific components of the linguistic system operate and how they might connect to serve Language as a whole. This is ultimately the goal of neurolinguistics.
+
+# Levels of description
+
+* I think the distinction between the *types* of answers to the questions we might ask is an important one. Brennan calls these "levels of description"
+
+**Computational**  lfkaslkdfj   
+**Algorithmic**    lkdfjlksdjfds
+
 
 <p align="center">
   <img src="images/speech-chain.jpg">

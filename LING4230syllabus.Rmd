@@ -63,33 +63,40 @@ Your grade in the course will be determined by your performance on the following
 The course follows closely the materials and discussion in:
 
 > Brennan, Jonathan R. (2022) Language and the Brain: A slim guide to neurolinguistics. (Oxford) 
-
-
 ## eClass
 All lectures (videos), lecture slides, assignments, discussion boards, online Quizzes and Tests, and assignment submission will happen on the [eClass](http://eclass.yorku.ca) site for the course. Lecture slides will be posted the evening after the lecture happens.
 
-### Lecture notes
-Every lecture will be accompanied by [notes]("docs/index.html"). These notes will summarize the main themes of the chapter being discussed during the lecture portion of each class. 
 
-### Class structure
+## Class structure
 We will go over the day's lecture and discuss issues and problems presented in the chapter for the day. For the most part, the topics discussed each week will follow closely the order of material presented in the textbook, with additional readings discussed in conjunction with the theme of the textbook chapter. It is critical that you do the readings as they will surely illuminate what is discussed in the lecture. Additionally, I ask that you forward me any interesting news stories related to language which you might come across. It is always nice to keep lectures and class content current with the zeitgeist.
 
-I will present for about an hour during each meeting. After my presentation there will be two to three student presentations of primary research articles associated with each chapter. For example, if the chapter is about word structure representation in the brain, we will read a few articles directly reporting results of experiments dealing with word structure. These articles will then be presented by students. 
+1) I will present for about an hour during each meeting. The materials I will present will come directly from the textbook, with some supplemental materials added
+
+2) After my presentation there will be two to three student presentations of primary research articles associated with each chapter. For example, if the chapter is about word structure representation in the brain, we will read a few articles directly reporting results of experiments dealing with word structure. **These articles will then be presented by students.** Each student will be responsible for one presentation of an article during the term. The articles will be linked below. Students will be randomly assigned to a particular article. 
+
+#### Article questions
+
+Students are responsible for submitting four sets of questions for articles we read during the term. Any four articles can be chosen by the student. Students should offer at least 2 (though more questions the better for your mark) questions about the article. The questions should be informed and thoughtful. **Do not give me questions like "What about bilinguals?"** or questions that are extremely broad and scope. They can be questions about methodology, previous research, interpretation of the data or the conclusions drawn.
+
+Questions must be submitted in hard copy on the day when we are discussing the particular article. For example, if you choose to provide questions for a paper in week 5, submit them at the start of week 5's class.
+
+#### Structure of journal article presentations
+
+As explained above, student's are responsible for one article presentation during the term. The presentation should last around 20mins, which means it shouldn't exceed 20 slides. Ideally you will use slides.google.com to compose your presentation so that we can access it seamlessly in class. The general structure of the presentation should be:
+
+* Introduce the problem/question asked by the article
+* Provide some background on what the article says has already been done regarding this topic
+* Breifly explain the methodology used in the experiment
+* Explain the results of the experiment(s), using visuals like graphs and plots, along with your own explanations
+* What does this mean for the original question being asked?
+* Any questions you might have about the research
+
+#### Annotated bibliography and Final paper
+
+The final paper consists of two pieces of work: an annotated bibliography and the paper itself. Students, in consultation with the me (please talk with me about your ideas a few weeks into the course), will come up with a paper topic. The paper can be either 1) A state-of-the-art report on a particular topic, or 2) a faux experimental paper that addresses a particular question in-line with the readings done in class. The paper should clearly articulate the history of the particular line of thinking and approach to the topic. Sample topics include: The genetic basis for speech (FOXP2); Cochlear implantation and language processing; Neural correlates of categorical perception; etc. Some sample papers will be posted on line.
 
 ### Email policy
 If you cannot attend the scheduled office hour, contact me to arrange another time. I will do my best to answer your phone and email messages promptly. I do not, generally, answer email on the weekend. Please email me from your yorku.ca account and put ‘LING 2200’ in the subject line. Emails sent from non-York accounts will be ignored. Please sign your emails; I will not reply to anonymous messages. My response to your email may be brief and may not come within 48 hours. **Please be patient**.
-
-### Assignments
-The course will have three homework assignments, which should be submitted on the date it is due via the eClass submission module. The assignments are designed to allow you to become familiar with core concepts, problems, and research methods/approaches (i.e., Praat) that are critically important in speech science.
-
-### Quizzes
-There will be three quizzes over the course of the term. Quizzes will be on Thursdays and during the first 15 minutes of the class period. Be on time! Each quiz will cover material from the previous two weeks of class. **There will be no make-up quizzes**.
-
-## Tests
-There will be two tests in this course, one at Midterm and one Final Exam. The tests will be mostly multiple-choice with some possible short answer questions testing your knowledge of both book and lecture content. You are responsible for reading all assigned material (book chapters and additional readings) as well as anything that may be presented in lectures.
-
-### Missed Midterm
-If you provide appropriate documentation for missing the midterm you will have until the following Tuesday to take a make-up. Please coordinate the make-up with me. A midterm missed without adequate documentation will be assigned a mark of zero.
 
 ## Grading
 York University uses a grading system detailed [here](http://calendars.registrar.yorku.ca/2012-2013/academic/grades/). Please familiarize yourself with it. 
@@ -102,33 +109,21 @@ In the period between the last day to drop a course without receiving a grade an
 
 ## Schedule
 
-| Week | Date | Lecture | Topic                               | Reading | Tests/Due    |
-|------|------|---------|-------------------------------------|---------|--------------|
-| -    | 9/08 | 1       | Intro/Nature of Sound               | Ch.1    |              |
-| 1    | 9/13 | 1       | Nature of Sound                     | Ch.1    |              |
-|      | 9/15 | 2       | Pure and complex sounds             | Ch.1    |              |
-| 2    | 9/20 | 3       | Attributes of sound                 | Ch.1    |              |
-|      | 9/22 | 4       | Praat basics (Lab 1)                | Ch.1    |  Quiz 1      |
-|      |      |         | South Ross 117 D                    |         |              |
-| 3    | 9/27 | 5       | Acoustic resonance                  | Ch.2    | Assignment 1 |
-|      | 9/29 | 6       | Respiration                         | Ch.3    |              |
-| 4    | 10/04| 7       | Laryngeal bones and muscles         | Ch.4    |              |
-|      | 10/06|         | Review                              |         |              |
-|      | 10/11|         | **Reading week**                    |         |              |
-| 5    | 10/18|         | **Midterm**                         |         |              |
-|      | 10/20|         | No class                            |         |              |
-| 6    | 10/25| 8       | Voice quality                       | Ch.4    |              |
-|      | 10/27| 9       | Articulation and resonance          | Chs.6,7 |              |
-| 7    | 11/1 | 9,10    | Audition                            | Chs.7,8 |              |
-|      | 11/3 | 10      | Audition: Ear anatomy               | Ch.8    |              |
-| 8    | 11/8 | 11      | General auditory perception         | Ch.8    |              |
-|      | 11/10| 12      | Spectrogram lab                     |         |              |
-| 9    | 11/15| 13      | Consonant perception                | Ch.8,6  |   Quiz 2     |
-|      | 11/17| 14      | Hearing loss, speech perception     | Ch.6    | Assignment 2 |
-| 10   | 11/22| 15      | Motor control, production           | Ch.9    |              |
-|      | 11/24| 16      | Speech perception theories          | Ch.12   |              |
-| 11   | 11/29| 17      | Building words                      | Ch.12   |              |
-|      | 12/01|         | Review                              |         |              |
-| 12   | 12/6 |         | Final Exam                          |         |              |
+| Week | Date |  Topic                  | Chapter    | Articles     |
+|------|------|-------------------------|---------|--------------|
+| 1    | 9/11 | Intro-Scope and History | Ch.1    |              |
+| 2    | 9/18 | Brain structures 1      | Ch.2    | -             |
+| 3    | 9/25 | Sounds 1                | Ch.2    | [Kubanek et al.(2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053398); [Mesgarani et al. (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350233/)|
+| 4    | 10/2 | Sounds 2                | Ch.3    | [Saoud et al. (2012)](https://www.jneurosci.org/content/jneuro/32/1/275.full.pdf); [van Wassenhove et al. (2007)](https://www.utdallas.edu/~assmann/hcs6367/van_wassenhove_grant_poeppel07.pdf)             |
+| -    | 10/9 | READING WEEK                        | ---     |              |
+| 6    | 10/16| Phonemes 1                            | Ch.3    | 2             |
+| 7    |10/23 | Phonemes 2                          | Ch.4    | 2             |
+| 8    |10/30 | Words                          | Ch.4    | 2             |
+| 9    |11/6  | Semantics                               | Ch.5    | 2             |
+|10    |11/13 | Prediction 1                           | Ch.6    | 2 |
+|11    |11/20 | Prediction 2                        | Ch.7    | 3 |
+|12    |11/27 | Sentences 1                        | Ch.7    | 2 |
+|13    |12/4  | Sentences 2                          | Ch.8    | 2 |
+
 
 
