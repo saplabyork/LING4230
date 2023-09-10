@@ -1,0 +1,61 @@
+---
+title: "Article assignments"
+output: 
+  html_document:
+    includes:
+      in_header: "favicon.html"
+    theme: paper
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+
+## Article assignments
+
+|Student number| Article |
+|--|---------|
+|218094946 |[Kubanek et al.(2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053398)|
+|218384867|[Mesgarani et al. (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350233/)|
+|217241142|[Saoud et al. (2012)](https://www.jneurosci.org/content/jneuro/32/1/275.full.pdf)|
+|218349332|[van Wassenhove et al. (2007)](https://www.utdallas.edu/~assmann/hcs6367/van_wassenhove_grant_poeppel07.pdf)|
+|216396939|[Sohoglu et al.(2012)](https://www.jneurosci.org/content/jneuro/32/25/8443.full.pdf)
+|218509935|[Scharinger et al. (2011)](https://www.researchgate.net/profile/William-Idsardi/publication/51123294_A_Comprehensive_Three-dimensional_Cortical_Map_of_Vowel_Space/links/565232c708ae4988a7aef7ca/A-Comprehensive-Three-dimensional-Cortical-Map-of-Vowel-Space.pdf)|
+|217918764|[Arsenault and Buchsbaum (2015)](https://www.jneurosci.org/content/jneuro/35/2/634.full.pdf)|
+|217949975|[Virtala et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0278262623000313/pdfft?md5=931540977f2e3a1b9cfa15d66ec0dd87&pid=1-s2.0-S0278262623000313-main.pdf)|
+|218426403|[Maffei et al.(2017)](https://www-sciencedirect-com.ezproxy.library.yorku.ca/science/article/pii/S0010945217303404)|
+|215810021|[Möttönen and Watkins (2009)](https://www.jneurosci.org/content/jneuro/29/31/9819.full.pdf)|
+|219222991|[Jochaut et al. (2015)](https://www.frontiersin.org/articles/10.3389/fnhum.2015.00171/full)|
+|217180662|[Davis and Johnsrude (2003)](https://www.jneurosci.org/content/jneuro/23/8/3423.full.pdf)|
+|216298978|[Marinkovic et al.(2003)](https://www.cell.com/neuron/pdf/S0896-6273(03)00197-1.pdf)|
+|218153080|[MacGregor et al. (2012)](https://www.nature.com/articles/ncomms1715)|
+|216152647|[Huth and Gallant (2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4852309/)|
+|217291840|[Pobric et al. (2007)](https://www.pnas.org/doi/full/10.1073/pnas.0707383104)|
+|217961632|[Pulvermüller et al.(2005)](https://www.academia.edu/download/32945171/pulvermuelleretal2005.pdf)|
+|216871949|[Federmeier and Kutas (1999)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8aec17d667f5b58fe2d9473a94553b13c6fd63a7)|
+|218199232|[van Berkum et al.(2003)](https://pure.mpg.de/rest/items/item_59347/component/file_59348/content)|
+|218251066|[Gouvea et al. (2010)](https://www.researchgate.net/profile/Colin-Phillips-3/publication/228641799_The_linguistic_processes_underlying_the_P600/links/0912f5097c882409cc000000/The-linguistic-processes-underlying-the-P600.pdf)|
+|217050006|[Klimovich-Gray et al. (2019)](https://www.jneurosci.org/content/jneuro/39/3/519.full.pdf)|
+|218557462|[Pallier et al.(2011)](https://www.pnas.org/doi/full/10.1073/pnas.1018711108)|
+|218085258|[Bemis and Pylkkänen (2011)](https://www.jneurosci.org/content/jneuro/31/8/2801.full.pdf)|
+|217872029|[Frankland and Greene (2015)](https://www.pnas.org/doi/full/10.1073/pnas.1421236112)|
+|218046110|[Matchin et al.(2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4252493/)|
+|218148940|[Amici et al.(2007)](https://www.jneurosci.org/content/jneuro/27/23/6282.full.pdf) |
