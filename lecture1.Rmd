@@ -43,56 +43,14 @@ The first two weeks of class we dive into our subject matter by introducing some
 
 * I think the distinction between the *types* of answers to the questions we might ask is an important one. Brennan calls these "levels of description"
 
-**Computational**  lfkaslkdfj   
-**Algorithmic**    lkdfjlksdjfds
+| Level of description |Definition|
+|--|--|
+|Computational | The "problem" meant to be solved by the brain. The sensory input and the interpretation/output|
+|Algorithmic| How the brain solves the problem; basically the function that takes input to output|
+|Implementational|How the brain (neurons) and the external language-related organs carry out the algorithm|
 
 
-<p align="center">
-  <img src="images/speech-chain.jpg">
-</p>
-
-
-In this course, we will be examining, in detail, the nature of:
-
-* **Acoustics**: the physical properties of sound
-* **Audition**: the process of sound transduction in the ear
-* **Production**: the physical process of producing sounds
-* **Perception**: the psychological process of speech reception
-
-The course will not be immediately concerned with linguistic representations and abstractions, topics which will be covered by other courses offered in the program like Phonetics (LING 2110), Acoustic Phonetics (LING 4220) and Phonology (LING 2120 and 3120).
-
-# Basic definitions
-
-In order for us to begin understanding the nature of speech sounds, we must familiarize ourselves with the science behind what makes sounds, in general. Speech is a **physical phenomenon** and as such, we must understand basic concepts of physics as it provides a bedrock of foundational elements for any sort of description and analysis of speech.
-
->**Mass (m)**: the amount of matter in an object, *measured in grams (g) or kilograms (kg)*\
->**Force (F)**: an influence on an object that causes a change in speed, direction, or shape. *Measured in newtons*\
->**Weight**: the force of gravity on an object\
->**Volume**: the quantity of space occupied by a liquid, gas, or solid object. *Units are
-liters (l) or cubic centimeters (cc)*\
->**Density**: mass/volume. *Units are g/cm^3^, kg/m^3^, g/ml\
->**Speed**: distance travelled in a given time. Units are m/s \
->**Velocity**: same as speed but a direction of movement is also specified\
->**Inertia**: the resistance of an object to change in its motion or rest. Units are grams(g)\
->**Acceleration (a)**: when velocity changes as a function of time. Acceleration is directly proportional to force and inversely proportional to mass $$ F=ma $$ $$ a=F/m $$ \
-
-The physical concept of **pressure** is particularly important for our understanding of speech processes. We will rely on our undersatnding of pressure to explain both audition as well as the production of speech sounds.\
-
->**Pressure**: force acting perpendicularly on an area. Unit is pascals (Pa), cm of H~2~0 (amount of pressure to displace column of water one cm). Pressure can also be described as the ratio of Force to Area.\
-
-<p align="center">
-  <img width="300" height="240" src="images/pressure.png">
-</p>
-
->P~atm~ is atmospheric pressure and is generally measured at sea level = 101.325 kPa ~ 14.7 psi (pounds per square inch). The atmosphere (right now) is exerting 14.7 lbs of pressure per square inch of your body right now! Pressures above and below P~atm~ are called *positive* and *negative* pressure, respectively.
-
-Pressure **differentials**, or the change in pressure over time across some area, will play a very important role in our understanding of how we hear and produce sounds.
-
-# Sound
-
-Sound is essentially changes in air pressure that results from some sort of disturbance, like the smacking of a table top or the vibrating of vocal folds. For speech sounds, tiny changes in pressure are a result of air molecules beign set in motion by the movement of the vocal folds. These changes in air pressure between air molecules end up at the listener's ear. This animated gif schematizes the general idea of some movement (the hand moving up) setting in to motion the rope. The change in air pressure is represented by the wave in the rope, which moves and ultimately reaches a target (or the listener's ear).
-
-![](https://ds055uzetaobb.cloudfront.net/uploads/RemWkGv8Lh-rope1.gif)
+<
 
 Molecules of air move in a random pattern, called [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion) and collide with each other and other objects at a relatively constant pressure.
 
