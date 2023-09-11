@@ -51,3 +51,6 @@ The first two weeks of class we dive into our subject matter by introducing some
 
 * Linguists and psychologists work at different levels of description. For example, I study speech perception, which asks how speech sounds are interpreted by humans and assigned to categories based on their experience with language. What level of description would I be working in? I would say it's computational, because I don't deal with fine-grained algorithmic (the math behind the category assignment) or the implementational (what the neural activity may be) that carries out the category assignment. 
 
+# Enterprise of neuro/psycho-linguistics
+
+* So what do we do when we say that we study language and the brain? We do all of these levels od description--but, mostly at the computational level. As linguists we generally don't have the resources available to undertake implementational studies unless we partner with people in other disciplines like psychology or neuroscience.
