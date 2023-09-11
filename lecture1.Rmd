@@ -62,3 +62,14 @@ The first two weeks of class we dive into our subject matter by introducing some
 # Enterprise of neuro/psycho-linguistics
 
 * So what do we do when we say that we study language and the brain? We do all of these levels od description--but, mostly at the computational level. As linguists we generally don't have the resources available to undertake implementational studies unless we partner with people in other disciplines like psychology or neuroscience.
+
+# Classical localization models
+
+* There are two brain regions that have received **a lot** of attention in both the literature as well as popular discourse surrounding language and the brain. Maybe you've heard of them: Broca's area and Wernicke's area.
+
+* These are two regions in the left hemisphere of the brain (we'll be talking about how to physically describe the brain next lecture) that more or less correspond to certain language-related deficits when damaged.
+
+* We calls these areas "Broca" and "Wernicke" because of the physicians who first noticed the relationship between brain damage in those areas and associated language problems. 
+
+![Paul Broca](images/broca.jpeg)
+![Karl Wernicke](images/wernicke.jpeg)
