@@ -73,3 +73,11 @@ The first two weeks of class we dive into our subject matter by introducing some
 
 ![Paul Broca](images/broca.jpeg)
 ![Karl Wernicke](images/wernicke.jpeg)
+
+* Broca and Wernike both examined patients who presented with language problems after some assault to the brain. 
+
+1) Broca noticed his patient had slow and laborious (non-fluent) speech while his comprehension seemed intact--> damage to the frontal portion of the left hemisphere
+
+2) Wernike's patient was quite the opposite, with fluent utterances but nonsensical!--> damage to the middle portion of the left hemisphere
+
+* Why is this important? Both of these early pioneers provide evidence for the localizationist view of the brain, that different parts of the brain are responsible for different functions. BUT, we will see in this class that a strict localizationist view is probably the wrong one, and that language function is probably more widely distributed across the brain than previously thought.
