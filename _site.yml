@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Syllabus and Schedule"
+    - text: "Syllabus"
       href: LING4230syllabus.html
     - text: "Article assignments"
       href: article-assignments.html
