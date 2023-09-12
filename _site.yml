@@ -1,12 +1,10 @@
 name: "LING4230"
 navbar:
-  title: "LING4230"
+  title: "LING2200"
   left:
     - text: "Home"
       href: index.html
-    - text: "Syllabus"
-      href: LING4230syllabus.html
-    - text: "Arcitle assignments"
+    - text: "Article assignments"
       href: article-assignments.html
     - text: "Lecture 1"
       href: lecture1.html
@@ -14,6 +12,5 @@ navbar:
       href: lecture2.html
     - text: "Lecture 3"
       href: lecture3.html
-    - text: "Lecture 4"
-      href: lecture4.html
 output_dir: "docs"
+

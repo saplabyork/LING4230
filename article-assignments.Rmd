@@ -49,7 +49,7 @@ knitr::opts_chunk$set(echo = TRUE)
 |218153080|[MacGregor et al. (2012)](https://www.nature.com/articles/ncomms1715)|
 |216152647|[Huth and Gallant (2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4852309/)|
 |217291840|[Pobric et al. (2007)](https://www.pnas.org/doi/full/10.1073/pnas.0707383104)|
-|217961632|[Pulvermüller et al.(2005)](https://www.academia.edu/download/32945171/pulvermuelleretal2005.pdf)|
+|217961632|[Pulvermüller et al.(2005)](https://sci-hub.se/10.1111/j.1460-9568.2005.03900.x)|
 |216871949|[Federmeier and Kutas (1999)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8aec17d667f5b58fe2d9473a94553b13c6fd63a7)|
 |218199232|[van Berkum et al.(2003)](https://pure.mpg.de/rest/items/item_59347/component/file_59348/content)|
 |218251066|[Gouvea et al. (2010)](https://www.researchgate.net/profile/Colin-Phillips-3/publication/228641799_The_linguistic_processes_underlying_the_P600/links/0912f5097c882409cc000000/The-linguistic-processes-underlying-the-P600.pdf)|
