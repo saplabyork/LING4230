@@ -9,7 +9,7 @@ output:
     toc_float: true
     collapsed: false
     number_sections: false
-    toc_depth: 2
+    toc_depth: 3
     #code_folding: hide
 ---
 <style type="text/css">
@@ -60,3 +60,22 @@ The brain is divided up into three major parts:
 ## Cerebrum
 
 The cerbrum is divided into two *hemispheres*, the left and right. The brain is much like a walnut, crack it open and it neatly divides into two halves. The outer layer of the cerebrum is called the **cortex** (the adjuctive from cortex is **cortical**, a term you'll see a lot in our readings).
+
+Beneath the cortex lie numerous *sub-cortical* structures. We can see these various structures by examining different "sections" or views of the brain. The **sagittal** section is one where the brain is presented from a side view (imagine one half of your face/head peeled away from the other half). The **axial** or *horizonatal* section is one where slices are taken from the top (imagine removing layers of a cake). And finally the **coronal** section is examining slices taken front to back but lengthwise (imagine peeling a banana but underneath the peel are successive layers of skin).
+
+![Sectional planes](images/sectional-planes.png)
+
+The cerebrum is characterized by **convolutions** which are folds. Why would the brain be crumpled like this? Imagine a crumpled wad of paper. Why is the brain shaped like this and not a smooth ball?
+
+The peaks these convolutions are called **gyri** ([d͡ʒajɹaj]) and the valleys are called **sulci** [sʌlkaj] (sing. "sulcus"). The gyri and suci will be important for us because many language-related phenomena are associated with activation along various gyri and sulci. 
+
+### Lobes
+
+Gyri and sulci delineate the four *lobes* of the brain:
+
+1) Frontal lobe--bordered by the Central sulcus and the Lateral sulcus (Sylvian fissure)
+2) Temporal lobe--bordered by the Lateral sulcus 
+4) Parietal lobe--bordered by the Central sulcus and the Lateral sulcus
+5) Occipital lobe--bordered by the Parieto-occipital sulcus 
+
+![Lobes](images/lobes.png){width=75%}
