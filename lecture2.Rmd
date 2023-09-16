@@ -79,3 +79,37 @@ Gyri and sulci delineate the four *lobes* of the brain:
 5) Occipital lobe--bordered by the Parieto-occipital sulcus 
 
 ![Lobes](images/lobes.png){width=75%}
+
+
+
+> At this point it might be useful to explore the gross structure of the hemispheric and lobe organization using the online tool like [Neurotorium](https://neurotorium.org/tool/brain-atlas/). This brain "atlas" lets you interactively explore the cortex and subcortical structure. Check it out!
+
+Sulci divide the lobes, e.g., the *lateral sulcus* or *sylvian fissure* lies at the inferior portion of the both the frontal and parietal lobes and marks the superior boundary of the temporal lobe.
+
+### Special gyri
+
+There are two gyri that will be important for us because they are implicated in a lot of language processing:
+
+1) **Primary motor cortex**
+2) **Somatosensory cortex**
+
+These are gyri that straddle the central sulcus. The primary motor cortex (don't know why it's not called "motor gyri") sends signals to the peripheral nervous system (down the spinal cord and out to your limbs and such) in order to control muscles. The somatosensory cortex *receives* signals from touch.
+
+![](images/primary-motor-cortex.png){width=40%} ![](images/somatosensory-cortex.png){width=40%} 
+
+Interstingly the neurons (cells which we will describe in a bit) in these two gyri are arranged in clusters that correspond to specific locations/functions in the body. For example, there are clusters associated with the hands, another cluster associated with the feet, or the tongue. 
+
+#### Homunculous man
+
+The distribution of neurons for each part of the boy in the motor and somatosensory cortecies is not equal, with certain appendages reciving more innervation (more nerves) and area on the cortex than others. Homunculus man is a 3D representation of this skewed distribution. Notice that the hands and tongue and lips are distorted by their large size, suggesting that those parts of the body get more real estate in the motor and somatosensory cortex.
+
+![](images/homunculus.gif){width=75%}
+
+
+### Terminology
+
+Don't be suprised when primary research articles abbreviate the names of these cerebral areas. For example, we will often see **STG** and **IFG**, which refer to superior tempral gyrus and inferior frontal gyrus respectively. STG is the superior most gyrus of the temporal lobe, while IFG is the inferior most gyrus of the frontal lobe. Don't balk at looking up these terms!
+
+### Micro-anatomy
+
+The cerebral structures we've described are general areas that might be active during any cerebral activity, but what exactly is happening when any part of the brain is active, or "lights up"?
