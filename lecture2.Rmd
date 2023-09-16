@@ -113,3 +113,7 @@ Don't be suprised when primary research articles abbreviate the names of these c
 ### Micro-anatomy
 
 The cerebral structures we've described are general areas that might be active during any cerebral activity, but what exactly is happening when any part of the brain is active, or "lights up"?
+
+The *stuff* of the nervous system (of which the cerbrum is a major structure), are **neurons**, of which there are approximately 100 million! The neuron consists of two major parts: the cell body or **soma** and the **axon** which is like a long branch extending out from the soma. **Dendrite** extend from the soma and are shorter than the axon. 
+
+![](images/neuron.png)
