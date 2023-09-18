@@ -101,7 +101,7 @@ Interstingly the neurons (cells which we will describe in a bit) in these two gy
 
 #### Homunculous man
 
-The distribution of neurons for each part of the body in the motor and somatosensory cortecies is not equal, with certain appendages reciving more innervation (more nerves) and area on the cortex than others. Homunculus man is a 3D representation of this skewed distribution. Notice that the hands and tongue and lips are distorted by their large size, suggesting that those parts of the body get more real estate in the motor and somatosensory cortex.
+The distribution of neurons for each part of the body in the motor and somatosensory cortecies is not equal, with certain appendages receiving more innervation (more nerves) and area on the cortex than others. Homunculus man is a 3D representation of this skewed distribution. Notice that the hands and tongue and lips are distorted by their large size, suggesting that those parts of the body get more real estate in the motor and somatosensory cortex.
 
 ![](images/homunculus.gif){width=75%}
 
@@ -124,7 +124,7 @@ As can be seen in the image below, one neuron's axon "connects" to another neuro
 
 Neurons communicate with other neurons with electrical current. The term used in neuroscientific literature for this electrical current is **action potential**. The action potential sent along the axon of a particular neuron and evokes a chemical interaction at the synapse, ultimately changing the electrical potential (voltage) of the receiving neuron. This electrical activity is as added or summed across many neurons in a particular area and can be measured. 
 
-There are two types of connections between neurons: **excititory** and **inhibitory**. An excititory connection increases the porbability that the receiving neuron itself fires off an action potential, while an inhibitory connection reduces that probability. Cylces of electrical discharge and rest can occur 1-250Hz.
+There are two types of connections between neurons: **excititory** and **inhibitory**. An excititory connection increases the probability that the receiving neuron itself fires off an action potential, while an inhibitory connection reduces that probability. Cylces of electrical discharge and rest can occur 1-250Hz.
 
 Cell bodies (the soma) reside on the surface of the cortex, the **grey matter** of the brain, while the axons lie below making up the **white matter**. 
 
