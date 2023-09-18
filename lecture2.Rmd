@@ -134,6 +134,8 @@ The white colour of the white matter is a result of the conductive sheath that s
 
 Cell bodies are not uniformly lined up in the grey matter, but rather span different layers of grey matter (beyond the scope of this class and perhaps not relevant to language processing). Cell bodies are also clumped together in areas across the cortex according to their neuronal organization, resulting smaller regions that carry out particular functions. *Brodmann* mapped out 52 such areas across the cortex. These **Brodmann Areas** are number that refer to specific areas on the cortex. Brodmann Areas are abbreviated "BA" and commonly used in the literature (e.g., BA 45, BA3, etc.)
 
+![](images/broadmann.png)
+
 ## Imaging the brain
 
 The next section looks at how we might visualize activation in the brain, which in turn tells us about which areas and structures of the brain are active or not during language processing.
