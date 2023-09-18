@@ -175,3 +175,7 @@ In a block design, two (or more) types of stimuli are presented in "blocks", but
 We will read a lot of papers using the method of **EEG** or *electroencephalography*. EEG is a common electrophysiological tool that works by placing electrodes on the scalp. 
 
 ![](images/eeg-cap.png){width=50%}
+
+EEG measures the electrical signal (averaged over an area) of the neuronal action potential. Deviation from a baseline neuronal activity is indicative of some response to a stimuli, i.e., the brain is "doing something" as a result of some stimulus. When there is an "event" like this, the EEG signal indicating a deviation is called **ERP** or *event-related potential*. 
+
+![](images/erp.jpeg)
