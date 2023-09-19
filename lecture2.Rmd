@@ -142,7 +142,7 @@ The next section looks at how we might visualize activation in the brain, which 
 
 ### MRI
 
-MRI stands for **M**agnetic **R**esonance **I**maging and is a fucndamental tool used in exploration of structural and functional aspects of the brain. The resulting "image" from an MRI is multidimensional picture showing the structure of the brain. When engaged in some task, the brain can be imaged using "fMRI" (Functional MRI) that shows which parts of the brain are active during that task. 
+MRI stands for **M**agnetic **R**esonance **I**maging and is a fundamental tool used in exploration of structural and functional aspects of the brain. The resulting "image" from an MRI is multidimensional picture showing the structure of the brain. When engaged in some task, the brain can be imaged using "fMRI" (Functional MRI) that shows which parts of the brain are active during that task. 
 
 But how does it work?
 MRI relies on the fact that the body (and the brain) is composed of mainly water. The hydrogen atoms of water (H~2~0) contain nuclei whose orientation (their axis) is random. 
