@@ -1,0 +1,38 @@
+---
+title: "Phonetics 1"
+output:
+  html_document:
+    includes:
+      in_header: "favicon.html"
+    theme: paper
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 3
+    #code_folding: hide
+---
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+options(repos = list(CRAN="http://cran.rstudio.com/"))
+```
+
+# From sound to synapse
+
+Sound is the psychological interpretation of a physical disturbance of air molecules. This disturbance, caused by some incident (like clapping hands, slamming doors, vibrating vocal folds), travels from the source to the listeners ears much like a row of dominoes, but in this case the dominoes are air molecules bumping into each other. 
+
+When the air around the listener's ear drum is disturbed, it pushes against the ear drum, which then physically moves bones (the smallest in your body) called the ossicles. The movement of the ossicles causes fluid in the cochlea (deep in your ear) to be set into motion. This moving fluid then causes a membrane within the cochlea to rub against another membrane that's covered in hairs. These hairs essentially "spark" and send an electrical signal through the auditory nerve to the brain! 
+
+This process is called **transduction** of sound from a phsyical movement of air to the electrical signal sent along nerves to the brain. 
+
+The book describes three steps of going from sound to meaning:
+
+1) Acoustic signal to neuro-auditory representation (**neurogram**)
+2) Neurogram to neuro-phonoloigcal representation (**phonological sketch**)
+3) Phonological sketch to **lexical item** or meaning
