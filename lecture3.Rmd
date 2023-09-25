@@ -98,4 +98,10 @@ The brian has to capture not only frequency information but time information as 
 
 The temporal "envelope" is the shape of the time-varying amplitude signal. In the waveform above, for the speech sample saying "language and the brain", the envelope is shown in red.
 
-We will learn (in detail) from a paper by [Kubanek et al. (2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053398) that the brain tracks this temporal envelope rather accurately in the auditory cortex as well language areas STG (superior temporal gyrus) and Broca's area (IFG, inferior frontal gyrus).
+We will learn (in detail) from a paper by [Kubanek et al. (2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053398) that the brain tracks this temporal envelope rather accurately in the auditory cortex as well language areas STG (superior temporal gyrus) and Broca's area (IFG, inferior frontal gyrus). This *tracking* of the temporal signal is called **entrainment**, or the synchronization of neuronal activity to an external stimuli. Entrainment in the brain is found for lots of different external stimuli such as speech, music, and even tactile stimuli.
+
+Entrainment is a more general phsyical concept that is evident when small amounts of energy is transferred between oscillating bodies that are initially out of phase, but soon "lock on" to a particular frequency, as in this famous metronome experiment:
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=T58lGKREubo&t=57s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
