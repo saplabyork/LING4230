@@ -100,8 +100,22 @@ The temporal "envelope" is the shape of the time-varying amplitude signal. In th
 
 We will learn (in detail) from a paper by [Kubanek et al. (2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053398) that the brain tracks this temporal envelope rather accurately in the auditory cortex as well language areas STG (superior temporal gyrus) and Broca's area (IFG, inferior frontal gyrus). This *tracking* of the temporal signal is called **entrainment**, or the synchronization of neuronal activity to an external stimuli. Entrainment in the brain is found for lots of different external stimuli such as speech, music, and even tactile stimuli.
 
-Entrainment is a more general phsyical concept that is evident when small amounts of energy is transferred between oscillating bodies that are initially out of phase, but soon "lock on" to a particular frequency, as in this famous metronome experiment:
+Entrainment is a more general phsyical concept that is evident when small amounts of energy is transferred between oscillating bodies that are initially out of phase, but soon "lock on" to a particular frequency, as in this [famous metronome experiment](https://www.youtube.com/watch?v=T58lGKREubo&t=1s).
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=T58lGKREubo&t=57s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+## Cocktail party effect
+
+Entrianment suggests that incoming speech is fully analyzed or represented very early on in the speech decomposition stream in the brain. Kubanek et al. show that the envelope is tracked by the auditory cortex. The question then becomes, does our brain spend all of this neuronal effort in tracking all speech that enters our ears?
+
+No, our brain is selective in what it chooses to decompose or represent for further linguistic analysis. The best example of this is the **cocktail party effect**. This is a common phenomenon whereby the speech signal is selectively attended to despite there being lots of background speech noise. Imagine you're at a party where lots of people are talking. We have the ability to home in on a particular conversation (we "attend" to it) and block out all of the other conversations.There is an amazing [wiki](https://en.wikipedia.org/wiki/Cocktail_party_effect) article about it.
+
+It turns out that we can alter the entrainment of the incoming speech signal, resulting in hearing what we want to hear. Ding and Simon (2013) had subjects listen to an audio book mixed with speech-like noise while in an MEG machine. The noise was adjusted so that the original speech was understandable, but with effort. The MEG tracked the neural activity and were able to match it with the speech envelope.
+
+# Neurograms
+
+Now that we've shown how the brain tracks temporal information, we have to ask what about frequency information that distinguishes phonemes from one another. Barton et al. (2010) did a MRI experiment where subjects heard tone sweeps as well as period sweeps, where noise in speech bands (like formants) were turned off and on with specific periods. It turns out that the BOLD signal responds to both in similar areas of the auditory cortex. All of this to say, the brain represents both frequency and temporal information in the auditory cortex. The "map" of the response to these types of stimuli result in what's called a **neurogram** (like *spectrogram*) 
+
+## From neurogram to phoneme
+
+The whole enterprise of generative phonology is centered on the idea that speech sounds have abstract representations characterized along parameters like voicing, manner, place of articulation, etc., the "features" of the sound, allowing them to be distinguished from other similar sounds. But is there any reality to this abstraction?
+
+We will learn from the work of [Mesgarani et al. (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350233/) that indeed, there is some neural basis for the old descriptions of phonemes using features. Using electrodes implanted on ST lobe and auditory cortex, these researchers found activation to speech sounds according to their (broad) features, mostly manner, showing that populations of neurons in the STG have **phonemic receptive fields**. 
