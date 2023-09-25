@@ -371,6 +371,9 @@ moving fluid then causes a membrane within the cochlea to rub against
 another membrane that’s covered in hairs. These hairs essentially
 “spark” and send an electrical signal through the auditory nerve to the
 brain!</p>
+<p align="center">
+<img src="images/ossicles_animation.gif" width="50%" height="50%">
+</p>
 <p>This process is called <strong>transduction</strong> of sound from a
 phsyical movement of air to the electrical signal sent along nerves to
 the brain.</p>
@@ -382,6 +385,97 @@ the brain.</p>
 sketch</strong>)</li>
 <li>Phonological sketch to <strong>lexical item</strong> or meaning</li>
 </ol>
+<p>The neuro-auditory representation is essentially the parameters of
+the spectrogram (remember what that is?!). They are a representation of
+frequency, amplitude, and time. Let’s briefly review how we get from
+moving our mouth and pushing air through the vocal folds to the
+spectro-temporal output.</p>
+</div>
+<div id="low-level-speech-representation" class="section level1">
+<h1>Low-level speech representation</h1>
+<p>The acoustic “image” that represent using a spectrogram is the result
+of two systems: a <strong>source</strong> system consisting of the vocal
+folds, which are set into motion because of various physical phenomena
+(Bernoulli effect). The result is a <em>complex periodic</em> sound
+consisting of a fundamental frequency (pyschological “pitch”) and higher
+harmonics (that are related to the fundamental). In the image below see
+the “source function” as a line spectrum.</p>
+<p>Above the vocal folds is the oral cavity which is the
+<strong>filter</strong> system. The filter shapes the source energy in
+specific ways depending on the shape of the mouth. The mouth
+configuration either amplifies or dampens various parts of the source
+spectrum. This results in formant structure, or areas of loud
+frequencies.</p>
+<p align="center">
+<img src="images/transfer_fucntion_iu.png" width="60%%" height="60%">
+</p>
+<p><br />
+</p>
+<p>This source-filter interaction results in a complex spectro (energy
+in frequency bands)-temporal (in time as speech unfolds). Imagine the
+spectro-temporal representation of speech without any labels, this is
+what your ear/cochlea/first stop in auditory pathway is receiving:</p>
+<p align="center">
+<img src="images/lang_spec.png" width="70%%" height="70%">
+</p>
+<p><br />
+</p>
+</div>
+<div id="tonotopy-in-the-cochlea" class="section level1">
+<h1>Tonotopy in the cochlea</h1>
+<p>We know that the cochlea “resolves” the incoming speech signal by
+performing Fourier analysis:</p>
+<p align="center">
+<img src="images/cochlea-tonotopy.png" width="50%" height="50%">
+</p>
+<p><br />
+</p>
+<p>The incoming complex speech waveform is “broken down” into component
+sine waves:</p>
+<p align="center">
+<img src="images/fft.png" width="50%" height="50%">
+</p>
+<p><br />
+</p>
+<p>The resulting representation of in the cochlea is called a
+<strong>cochleogram</strong> (like spectrogram).</p>
+</div>
+<div id="to-the-brain" class="section level1">
+<h1>To the brain</h1>
+<p>The signal is then sent to the brain via the auditory nerve and
+arrives at the STG and specifically <strong>Heschl’s gyrus</strong> or
+the <strong>primary auditory cortex</strong>. There is evidence that the
+auditory cortex is itself <strong>tonotopic</strong> in organization.
+[But why the redundancy?]</p>
+<p><a
+href="https://journals.physiology.org/doi/full/10.1152/jn.01125.2002">Talavage
+et al. (2004)</a> did an experiment where subjects heard a <a
+href="sounds/tone-sweep.wav">tone sweep</a> while in an MRI. The authors
+looked for peaks in the BOLD signal in the auditory cortex. The peaks
+moved as the frequency of the tone increased.</p>
+<p>The firing of a neuron in response to a tone is called the neuron’s
+<em>receptive field</em>. So we can say that the receptive fields of the
+neurons in the auditory cortex are tuned to different frequencies. This
+is the tonotopic organization of the primary auditory cortex.</p>
+</div>
+<div id="entrainment" class="section level1">
+<h1>Entrainment</h1>
+<p>The brian has to capture not only frequency information but time
+information as well. The time information is basically the waveform of
+the speech sound.</p>
+<p align="center">
+<img src="images/waveform.png" width="80%" height="80%">
+</p>
+<p><br />
+</p>
+<p>The temporal “envelope” is the shape of the time-varying amplitude
+signal. In the waveform above, for the speech sample saying “language
+and the brain”, the envelope is shown in red.</p>
+<p>We will learn (in detail) from a paper by <a
+href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053398">Kubanek
+et al. (2013)</a> that the brain tracks this temporal envelope rather
+accurately in the auditory cortex as well language areas STG (superior
+temporal gyrus) and Broca’s area (IFG, inferior frontal gyrus).</p>
 </div>
 
 
