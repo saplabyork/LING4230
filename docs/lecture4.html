@@ -11,7 +11,7 @@
 
 
 
-<title>Article assignments</title>
+<title>Sounds 2</title>
 
 <script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -220,6 +223,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -227,6 +293,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -273,7 +349,7 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Article assignments</h1>
+<h1 class="title toc-ignore">Sounds 2</h1>
 
 </div>
 
@@ -283,190 +359,11 @@ $(document).ready(function () {
   font-size: 12pt;
 }
 </style>
-<style type="text/css">
-.title {
-  display: none;
-}
 
-#getting-started img {
-  margin-right: 10px;
-}
 
-</style>
-<div id="article-assignments" class="section level2">
-<h2>Article assignments</h2>
-<table>
-<colgroup>
-<col width="18%" />
-<col width="81%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Student number</th>
-<th>Article</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>218094946</td>
-<td><a
-href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053398">Kubanek
-et al.(2013)</a></td>
-</tr>
-<tr class="even">
-<td>218384867</td>
-<td><a
-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350233/">Mesgarani
-et al. (2014)</a></td>
-</tr>
-<tr class="odd">
-<td>217241142</td>
-<td><a
-href="https://www.jneurosci.org/content/jneuro/32/1/275.full.pdf">Saoud
-et al. (2012)</a></td>
-</tr>
-<tr class="even">
-<td>218349332</td>
-<td><a
-href="https://www.utdallas.edu/~assmann/hcs6367/van_wassenhove_grant_poeppel07.pdf">van
-Wassenhove et al. (2007)</a></td>
-</tr>
-<tr class="odd">
-<td>216396939</td>
-<td><a
-href="https://www.jneurosci.org/content/jneuro/32/25/8443.full.pdf">Sohoglu
-et al.(2012)</a></td>
-</tr>
-<tr class="even">
-<td>218509935</td>
-<td><a
-href="https://www.researchgate.net/profile/William-Idsardi/publication/51123294_A_Comprehensive_Three-dimensional_Cortical_Map_of_Vowel_Space/links/565232c708ae4988a7aef7ca/A-Comprehensive-Three-dimensional-Cortical-Map-of-Vowel-Space.pdf">Scharinger
-et al. (2011)</a></td>
-</tr>
-<tr class="odd">
-<td>217918764</td>
-<td><a
-href="https://www.jneurosci.org/content/jneuro/35/2/634.full.pdf">Arsenault
-and Buchsbaum (2015)</a></td>
-</tr>
-<tr class="even">
-<td>217949975</td>
-<td><a
-href="https://www.sciencedirect.com/science/article/pii/S0278262623000313/pdfft?md5=931540977f2e3a1b9cfa15d66ec0dd87&amp;pid=1-s2.0-S0278262623000313-main.pdf">Virtala
-et al. (2023)</a></td>
-</tr>
-<tr class="odd">
-<td>218426403</td>
-<td><a
-href="https://www-sciencedirect-com.ezproxy.library.yorku.ca/science/article/pii/S0010945217303404">Maffei
-et al.(2017)</a></td>
-</tr>
-<tr class="even">
-<td>215810021</td>
-<td><a
-href="https://www.jneurosci.org/content/jneuro/29/31/9819.full.pdf">Möttönen
-and Watkins (2009)</a></td>
-</tr>
-<tr class="odd">
-<td>219222991</td>
-<td><a
-href="https://www.frontiersin.org/articles/10.3389/fnhum.2015.00171/full">Jochaut
-et al. (2015)</a></td>
-</tr>
-<tr class="even">
-<td>217180662</td>
-<td><a
-href="https://www.jneurosci.org/content/jneuro/23/8/3423.full.pdf">Davis
-and Johnsrude (2003)</a></td>
-</tr>
-<tr class="odd">
-<td>216298978</td>
-<td><a
-href="https://www.cell.com/neuron/pdf/S0896-6273(03)00197-1.pdf">Marinkovic
-et al.(2003)</a></td>
-</tr>
-<tr class="even">
-<td>218153080</td>
-<td><a href="https://www.nature.com/articles/ncomms1715">MacGregor et
-al. (2012)</a></td>
-</tr>
-<tr class="odd">
-<td>216152647</td>
-<td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4852309/">Huth
-and Gallant (2016)</a></td>
-</tr>
-<tr class="even">
-<td>217291840</td>
-<td><a
-href="https://www.pnas.org/doi/full/10.1073/pnas.0707383104">Pobric et
-al. (2007)</a></td>
-</tr>
-<tr class="odd">
-<td>217961632</td>
-<td><a
-href="https://sci-hub.se/10.1111/j.1460-9568.2005.03900.x">Pulvermüller
-et al.(2005)</a></td>
-</tr>
-<tr class="even">
-<td>216871949</td>
-<td><a
-href="https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=8aec17d667f5b58fe2d9473a94553b13c6fd63a7">Federmeier
-and Kutas (1999)</a></td>
-</tr>
-<tr class="odd">
-<td>218199232</td>
-<td><a
-href="https://pure.mpg.de/rest/items/item_59347/component/file_59348/content">van
-Berkum et al.(2003)</a></td>
-</tr>
-<tr class="even">
-<td>218251066</td>
-<td><a
-href="https://www.researchgate.net/profile/Colin-Phillips-3/publication/228641799_The_linguistic_processes_underlying_the_P600/links/0912f5097c882409cc000000/The-linguistic-processes-underlying-the-P600.pdf">Gouvea
-et al. (2010)</a></td>
-</tr>
-<tr class="odd">
-<td>217050006</td>
-<td><a
-href="https://www.jneurosci.org/content/jneuro/39/3/519.full.pdf">Klimovich-Gray
-et al. (2019)</a></td>
-</tr>
-<tr class="even">
-<td>218557462</td>
-<td><a
-href="https://www.pnas.org/doi/full/10.1073/pnas.1018711108">Pallier et
-al.(2011)</a></td>
-</tr>
-<tr class="odd">
-<td>218085258</td>
-<td><a
-href="https://www.jneurosci.org/content/jneuro/31/8/2801.full.pdf">Bemis
-and Pylkkänen (2011)</a></td>
-</tr>
-<tr class="even">
-<td>217872029</td>
-<td><a
-href="https://www.pnas.org/doi/full/10.1073/pnas.1421236112">Frankland
-and Greene (2015)</a></td>
-</tr>
-<tr class="odd">
-<td>218046110</td>
-<td><a
-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4252493/">Matchin et
-al.(2014)</a></td>
-</tr>
-<tr class="even">
-<td>218148940</td>
-<td><a
-href="https://www.jneurosci.org/content/jneuro/27/23/6282.full.pdf">Amici
-et al.(2007)</a></td>
-</tr>
-</tbody>
-</table>
+
 </div>
-
-
-
+</div>
 
 </div>
 
@@ -499,6 +396,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
