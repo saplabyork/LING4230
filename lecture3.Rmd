@@ -89,7 +89,7 @@ The firing of a neuron in response to a tone is called the neuron's *receptive f
 
 # Entrainment
 
-The brian has to capture not only frequency information but time information as well. The time information is basically the waveform of the speech sound. 
+The brain has to capture not only frequency information but time information as well. The time information is basically the waveform of the speech sound. 
 
 <p align="center">
   <img src="images/waveform.png" width="80%" height="80%">
