@@ -21,3 +21,10 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 options(repos = list(CRAN="http://cran.rstudio.com/"))
+```
+
+# Continuous to Categorical
+
+The neural representations of speech that we've seen so far in either the temporal envelope tracking or the tone sweep frequency mapping in the STG are all "continuous" representations. That means that there is gradience in the actual neural activity on the cortex, i.e., there's lots of shades of grey.
+
+But speech perception is ultimately a categorical phenomenon. If I ask 10 of you to say "pa" you will each have 10 different VOTs for the "p" but we will all perceive the utterance as a singular "pa", that is, there is one category of "p" that our brains represent. The question now becomes, how does the brain move from a continuous represenation to a categorical. 
