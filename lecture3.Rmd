@@ -118,4 +118,5 @@ Now that we've shown how the brain tracks temporal information, we have to ask w
 
 The whole enterprise of generative phonology is centered on the idea that speech sounds have abstract representations characterized along parameters like voicing, manner, place of articulation, etc., the "features" of the sound, allowing them to be distinguished from other similar sounds. But is there any reality to this abstraction?
 
-We will learn from the work of [Mesgarani et al. (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350233/) that indeed, there is some neural basis for the old descriptions of phonemes using features. Using electrodes implanted on ST lobe and auditory cortex, these researchers found activation to speech sounds according to their (broad) features, mostly manner, showing that populations of neurons in the STG have **phonemic receptive fields**. 
+We will learn from the work of [Mesgarani et al. (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350233/) that indeed, there is some neural basis for the old descriptions of phonemes using features. Using electrodes implanted on ST lobe and auditory cortex, these researchers found activation to speech sounds according to their (broad) distinctive features, mostly manner, showing that populations of neurons in the STG have **phonemic receptive fields**. 
+

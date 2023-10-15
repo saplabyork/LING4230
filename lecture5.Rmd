@@ -22,3 +22,30 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 options(repos = list(CRAN="http://cran.rstudio.com/"))
 ```
+
+
+# Dual-stream model for speech perception
+
+Hicock and Poppel's (2007) model of the brain regions/systems involved in speech perception is pretty important for us to understand. The brain can be engaged in varying types of activities when encountering the incoming speech stream: it can be listening or monitoring the fine structure of the speech (something you might do in a speech perception task like what's the difference between "pa" and "ba"), or it could be involved in gleaning meaning from the incoming speech.
+
+These two purposes for speech perception find neurological evidence in Hicock and Poppel's model: the *ventral* stream and the *dorsal* stream. Information processed along the ventral stream will be passed on from pure acoustic processing to phonemic processing to lexical processing and ultimately semantics. Dorsal stream processing is engaged during lower level tasks that do not involve understanding the speech, such as imitation. This model is called the *dual-stream model* of speech perception. 
+
+<p align="center">
+  <img src="images/dual-stream.jpeg">
+</p>
+
+<p align="center">
+  <img src="images/dual-stream-book.png" width = "75%">
+</p>
+
+The two streams can be thought of like this:
+*Understanding* --> Ventral
+*Non-understanding* --> Dorsal
+
+Language-processing necessarily involves the ventral stream, which will be the focus of this section on representation of speech as **phonemic**information. But, the book makes the point that the activation in the brain given a language (speech in this case) signal is dependent on what we are asking the subject to do with that stimulus. 
+
+# Locating phonemes
+
+Much like the Mesgarani stuff from [lecture 3](lecture3.html), work by Idsardi with the Turkish vowel system shows a spatial activation of the left STG according to the acoustic dimensions of the particular stimuli. Turkish has a famously regular vowel distribution along the features of frontness/backness, height, and roundness. The distribution of the activation (from an MEG study) is according to frontness/backness with front vowels lying on the inferior-superior plane of the STG, and back vowels along the anterior-posterior plane. But this is hardly the type of segregation between individual vowels we would want for them to be fully spatially specified in the brain. That is, ideally we would see one particular area associated with one particular phoneme, and adjacent phonemes represented in a way that is analog to the acoustic space. But that's not what they found. They found that when vowel pairs were presented they were spatially segregated according to feature and **not** acoustic distance. 
+
+Brennan calls the spatial code for phonemic features *phonotopy*, comparable with the tonotopic activation of the STG when presented tone sweeps or the organization of the basialar membrane in the cochlea. But again, it is not so simple as to say the STG is phonotopically organized. Where as there is clear evidence for the frequency specific tuning of the cochlea, it's not same for the STG. Citing evidence from Mesgarani (again), the book notes that phonemes with similar features are not activating the STG in adjacent areas.
