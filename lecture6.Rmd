@@ -54,3 +54,7 @@ Möttönen and Watkins (2009): rTMS study where the motor cortex is temporarily 
 But wait, there are cases where speech perception remains intact while speech production is affected after some brain injury or assault, namely Broca's aphasia. In Rogalsky and Hicock's (2011) study they describe five cases where patients with leisons (damage) on the motor cortex are successful at speech perception but have severely impaired production. 
 
 The takeaway is that the motor system is definitely engages during speech perception but is not **necessary** for the task. 
+
+# Motor theory of speech perception
+
+Much of this literature relates to a decades old question in the literature, namely, what are the "objects" of speech perception. Are they acoustic? Are they articulatory? That is, when you perceive me saying "pa" are you recovering the phoneme /p/ simply from the acoustics (not so simple) or something else? Proponents of the **Motor theory of speech perception** (see Liberman 1950s) would argue that you're actually perceiving the articulation of /p/. This got a lot of pushback in the 70s and 80s and a revised version of the theory suggests that listeners recover the neural program used to initiate the /p/ when they perceive "pa". It's looking like there is a lot of evidence supporting this, but it's not the whole story.
