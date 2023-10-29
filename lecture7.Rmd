@@ -1,0 +1,49 @@
+---
+title: "Words"
+output:
+  html_document:
+    includes:
+      in_header: "favicon.html"
+    theme: paper
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 3
+    #code_folding: hide
+---
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+options(repos = list(CRAN="http://cran.rstudio.com/"))
+```
+
+# Form, meaning, structure
+
+The book defines a *word* as the "pairing of linguistic form with meaning and structure." This makes sense given our linguistics training where words serve as placeholders for ideas that have specific rules for how the ideas (which have a phonological form) operate in a sentence. These ideas, or "mental represenations" that are stored in our memory, are called *lexical items*. 
+
+Lexical items have phonological form, that is there is an abstract representation of how they sound. Along with the phonological specification the lexical item also has meaning components which includes lots of associated concepts and semantic features. [The book also says that the form component of the lexical item includes both phonological and orthographic features.]
+
+<p align="center">
+  <img src="images/lexical-item.png" width = "70%">
+</p>
+
+## Are all morphemes lexical items?
+
+So a word like "dog" might have the lexical representation:
+</dag/; concepts associate with dog like "bark", four legs, wagging tail, canine teeth, etc; NOUN>
+
+What about a morpheme like "-s"? This has a phonological form (/s/), conceptual features like "plurality", and a functional status like "adds to nouns" to make more than one of the noun.
+
+Turns out that there is evidence for (and against) storing of both free and bound morphemes in the lexicon. This chapter will address this question (among other things about the nature of the lexicon).
+
+# Where do words live? --> Wernicke's Area
+
+Neurolinguistic studies suggest that the form and function of lexical items are combined in the *posterior middle temporal gyrus* (pMTG). The pMTG is where phonology and semantics might come together. Deficits to the posterior portion of the MTG have long been associated with detrimental effects in the semantic domain. Indeed we might call this region of the brain **Wernicke's Area**. People with *Wernicke's aphasia* might produce semantically inappropriate words (word salad) and have difficulty comprehending.
+
+In a study with over 100 aphasia patients, Bates and Dronkers (2003), examined *lesion overlap* among the patients. The looked to see which patients had lesions in particular voxels (remember this is sortof the analog to pixel in the volumetric representation of fMRIs) and correlated behavioural measures --> VLSM (voxel-based lesion system mapping).
