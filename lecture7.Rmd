@@ -46,6 +46,10 @@ Turns out that there is evidence for (and against) storing of both free and boun
 
 Neurolinguistic studies suggest that the form and function of lexical items are combined in the *posterior middle temporal gyrus* (pMTG). The pMTG is where phonology and semantics might come together. Deficits to the posterior portion of the MTG have long been associated with detrimental effects in the semantic domain. Indeed we might call this region of the brain **Wernicke's Area**. People with *Wernicke's aphasia* might produce semantically inappropriate words (word salad) and have difficulty comprehending.
 
+<p align="center">
+  <img src="images/pMTG.png" width = "70%">
+</p>
+
 In a study with over 100 aphasia patients, Bates and Dronkers (2003), examined *lesion overlap* among the patients. The looked to see which patients had lesions in particular voxels (remember this is sortof the analog to pixel in the volumetric representation of fMRIs) and correlated behavioural measures --> VLSM (voxel-based lesion system mapping).
 
 <p align="center">
