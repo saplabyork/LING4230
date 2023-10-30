@@ -70,3 +70,14 @@ How much does higher level organization or linguistic "knowledge" affect the pro
 
 # Units of lexical representation
 
+What is stored in the mental lexicon? Individual morphemes or word units that might be made up of several morphemes? This has to do with lexical *grain size*. The book addresses two theories of what is stored in the lexicon when encountering a word. 
+
+## Full decomposition
+
+The full decomposition theory of lexical access presumes that the consituent parts of words are held in the lexicon separately and then recombined according to the language's grammar. So a word like "dogs" is represented as "dog" and "-s", each with it's own phonological and conceptual forms in the lexicon. But what about irregular forms like "deer" (pl)? "Deer" (pl) would be "deer" (n.) and "0"(plural affix).
+
+## Partial decomposition
+
+Partial decomposition is a little more forgiving and perhaps believable. It allows for transparent morphology to be uniquely specified like the "dogs" example in full decomposition, but makes exceptions for these irregular words like "deer" or "geese", etc., which are stored without any decomposition. 
+
+Pinker and Ullman (2002) did did a study with two patients with differing aphasias: JLU had *anomia*, which leads to a tip-of-the-tongue phenomenon; and FCL who had *agrammaticism* which leads to difficulty with function words and words that provide syntactic information. FCL performed poorly when generating past-tense words, which needed -ed morphology, but performed better when producing irregular verbs like "held" and "ate." Again we have a case of double dissociation between FCL and JLU with regular and irregular verbs, suggesting that they can be differentially affected and therefore must be processed differently by the brain. 
