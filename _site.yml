@@ -20,5 +20,7 @@ navbar:
       href: lecture6.html
     - text: "Lecture 7"
       href: lecture7.html
+    - text: "Lecture 8"
+      href: lecture8.html
 output_dir: "docs"
 
