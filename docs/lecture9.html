@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Prediction 1</title>
+
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link rel="shortcut icon" href="images/brain_tongue.jpg">
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">LING4320</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="article-assignments.html">Article assignments</a>
+</li>
+<li>
+  <a href="lecture1.html">Lecture 1</a>
+</li>
+<li>
+  <a href="lecture2.html">Lecture 2</a>
+</li>
+<li>
+  <a href="lecture3.html">Lecture 3</a>
+</li>
+<li>
+  <a href="lecture4.html">Lecture 4</a>
+</li>
+<li>
+  <a href="lecture5.html">Lecture 5</a>
+</li>
+<li>
+  <a href="lecture6.html">Lecture 6</a>
+</li>
+<li>
+  <a href="lecture7.html">Lecture 7</a>
+</li>
+<li>
+  <a href="lecture8.html">Lecture 8</a>
+</li>
+<li>
+  <a href="lecture9.html">Lecture 9</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Prediction 1</h1>
+
+</div>
+
+
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+<div id="language-processing-as-prediction" class="section level1">
+<h1>Language processing as prediction</h1>
+<p>The field has moved into understanding language processing (in all
+linguistic domains like speech perception, word recognition, semantics,
+and sentence structure) as a reflection of our ability to predict.
+Prediction as it relates to learning has a very long history in
+cognitive science and we now start our journey into how these concepts
+might apply to our understanding of syntax.</p>
+<p>But before we talk about the details of the predictive mechanisms
+underlying processing, we need to understand the language composition
+process.</p>
+</div>
+<div id="sentence-structure" class="section level1">
+<h1>Sentence structure</h1>
+<p>At this point you should all be familiar with the basics of the
+lingusitic study of syntax. Regardless of the language, sentence
+structure utilizes three key phenomenon: Constituency, Dependency, and
+Compositionality.</p>
+<div id="constituency" class="section level2">
+<h2>Constituency</h2>
+<p>Constituency (also called <em>phrase structure</em>) refers to the
+hierarchical groupings of words that occur in a particular order.</p>
+<p align="center">
+<img src="images/red-apple-syntree.png" width = "70%">
+</p>
+<p>Rules for constituency are based on the words’ syntactic category,
+which will tell you what sorts of words will form constituents.</p>
+</div>
+<div id="dependency" class="section level2">
+<h2>Dependency</h2>
+<p>Dependency refers to how particular words are to to be combined with
+other words, even words that are not “local” or adjacent to each other.
+In the example above, the dashed arrow indicates a long-distance
+dependency between [the red apple] constituent and the verb
+<em>cut</em>. <em>Agreement</em> is also another type of dependency. In
+English, agreement generally occurs with number, while in other
+languages it occurs with features like grammatical gender.</p>
+<div id="compositionality" class="section level3">
+<h3>Compositionality</h3>
+<p>Finally, the constituency and dependency, when combined with the
+semantics of the word itself results in the meaning of the sentence. The
+whole process reflects the <em>compositionality</em> of language
+generation and processing. In the example above, the little pictures
+next to the word reflect the semantics of individual words and then the
+semantics of the the phrases/constituents. NB “[[x]]” refers to the
+semantics of grammatical words like articles.</p>
+<p>Knowledge of the compositional structure (as it relates to phrase
+structure and dependency) of a language is essentially knowledge of the
+language. When someone asks you “what does it mean to know English”
+(above and beyond memorizing the dictionary), you would answer that you
+know the <em>grammar</em> of the language, which itself means knowledge
+of the language’s compositionality.</p>
+</div>
+</div>
+</div>
+<div id="from-grammar-to-prediction" class="section level1">
+<h1>From grammar to prediction</h1>
+<p>Knowledge of a language’s grammar necessarily allows us to predict
+the types of structures that are not immediately present. Remember that
+language, as reflected in speech, unfolds over time (different from the
+written word), and as such we do not get the whole structure of the
+utterance from the get-go (like in the red apple example above). What is
+the neural signature of this sort of prediction? How do we know that our
+processing of online language information is predicting what comes next?
+We know this because when we throw at it something that does not fit the
+theoretical structure we’ve assigned to the language processing unit
+(i.e., syntax), the system hiccups. Behaviourally this would be a
+surprisal response or a delayed reaction in a particular task. But how
+does it look neurally?</p>
+<div id="n400" class="section level2">
+<h2>N400</h2>
+<p>The N400 is an EEG signature that registers a mismatch between the
+prediction (given some language input) and the stimulus. The mismatch is
+registered as a negatively going component (remember negative is
+generally in the “up” direction in this literature) that peaks around
+400ms after the onset of the stimulus. For example, if presented the
+sentence, “Mary ate her spaghetti with a shirt,” a negative peak would
+appear in the EEG readout 400ms after the presentation of “shirt.” The
+N400 is an <strong>ERP</strong> or “event-related potential,” with the
+event being the stimulus mismatch.</p>
+<p>There are two ways that psycholinguists have understood the N400, and
+they both relate to prediction.</p>
+<div id="semantic-memory-theory" class="section level3">
+<h3>Semantic-memory theory</h3>
+<p>With semantic-memory theory, the N400 is seen as an index of the
+Cloze probability of the mismatched <em>word</em> within the context of
+the sentence. Based on the semantics of the sentence we make predictions
+as to the most appropriate word that fits the context. But words that
+are unexpected but still semantically related to the expected word
+<em>also</em> elicit an N400 but the magnitude is not as strong as a
+semantically unrelated word.</p>
+<p align="center">
+<img src="images/sem-memory.png" width = "50%">
+</p>
+<p>In the picture above, the subject is primed with: “Checkmate”
+Rosalind announced with glee. She was getting to be really good at…</p>
+<p>The unexpected word, “football” elicits the largest amplitude N400,
+while the expected word “chess” does not elicit the N400. “Monopoly”
+<em>does</em> elicit the N400 but not as strong as “football.” The
+semantic-memory theory suggests that we expect “chess,” which becomes
+<em>pre-activated</em> as we receive more and more information in the
+sentence. The pre-activation of “chess” also activates semantically
+related words.</p>
+</div>
+<div id="semantic-integration-theory" class="section level3">
+<h3>Semantic-integration theory</h3>
+<p>Another way to understand the N400 is that it reflects the
+<em>plausibility</em> of the meaning that results when a new word is
+integrated with the previous context. The semantic-integration theory
+links the N400 with the compositional process which builds up the
+meaning of the sentence rather than individual word meanings. In a
+sentence like “John drank a glass of…prune juice,” while “prune juice”
+might not be the most popular completion of that sentence, it is
+certainly a plausible noun phrase. Even though the probability is
+extremely low, the brain registers it plausibility as acceptable, but
+not likely. It turns out that unlike the N400 which registers the
+predictability of the completion, with more/less predictable being
+indexed by more/less negative going components after the stimulus, the
+sentence plausibility is indexed about 100 <strong>later</strong> than
+the N400 and in a different area than the N400, namely the posterior
+region of the scalp.</p>
+<p align="center">
+<img src="images/predictability-plausibility.png" width = "75%">
+</p>
+<p>So the time course of processing on a word-by-word basis is: words
+are preactivated according to context; lexical access occurs about 400ms
+after the word is encountered; the meaning of the sentence is wrapped up
+at around 500ms after the end of the sentence.</p>
+</div>
+<div id="discourse-dependent-n400" class="section level3">
+<h3>Discourse-dependent N400</h3>
+<p>The brain uses any and all types of evidence (linguistic or
+otherwise) to make predictions about what comes next in a sentence (but
+there are some caveats). For example, we use contextual information
+beyond the scope of the immediate/local sentential context to make
+predictions (this is a good thing otherwise things like narratives would
+be impossible to comprehend). Van Berkum et al. (2003) showed that we
+use <strong>discourse context</strong> to make predictions and that an
+N400 is elicited even when a word is perfectly matched to the sentence
+which it concludes.</p>
+<p align="center">
+<img src="images/vanberkum-discourse.png" width = "75%">
+</p>
+<p>In the example above, both “quick” and “slow” are equal in terms of
+their predictability and plausibility in the final sentence (it’s a
+weird setup, I know). But “slow” does not fit the larger discourse
+context (i.e., the story before) so it elicits an N400. So, the brain
+keeps track of non-local information in making predictions about what
+comes next [But you might ask yourself, how “non-local” is enough or not
+enough? That is, is an N400 elicited when the mismatch occurs due to
+information presented many sentences or paragraphs or minutes before? Is
+this a memory problem or a linguistic problem?]</p>
+<p>In the next lecture we will see cases where non-linguistic
+information, namely who is saying what, affects the nature of the
+prediction. I might also introduce some work showing that indexical
+information (exactly who is talking) affects the types of words we
+expect to hear.</p>
+</div>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
