@@ -26,10 +26,10 @@ output:
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Language and the Brain**
+# **Language and the Brain (Fall 2024)**
 
 Mondays, 2:30-5:30pm\
-Health, Nursing, and Environmental Studies (HNE) Building, Rm. 104\
+Accolade East (ACE) Building, Rm. 010\
 Instructor: [Chandan Narayan](https://ch-narayan.github.io)\
 Contact: [chandann@yorku.ca](mailto:chandann@yorku.ca)\
 [Course outline and schedule](LING4230syllabus.html)
