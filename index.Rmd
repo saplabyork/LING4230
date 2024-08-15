@@ -26,8 +26,9 @@ output:
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Language and the Brain (Fall 2024)**
-
+# **Language and the Brain**
+### Fall 2024
+\
 Mondays, 2:30-5:30pm\
 Accolade East (ACE) Building, Rm. 010\
 Instructor: [Chandan Narayan](https://ch-narayan.github.io)\
