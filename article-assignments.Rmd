@@ -32,8 +32,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Article assignments
 
 |Student number| Article |
-|--|---------|
-|218912683 |[Kubanek et al.(2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053398)|
+|---------|---------|
+|218912683|[Kubanek et al.(2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053398)|
 |218994590|[Mesgarani et al. (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350233/)|
 |218637124|[Saoud et al. (2012)](https://www.jneurosci.org/content/jneuro/32/1/275.full.pdf)|
 |219108505|[van Wassenhove et al. (2007)](https://www.utdallas.edu/~assmann/hcs6367/van_wassenhove_grant_poeppel07.pdf)|
