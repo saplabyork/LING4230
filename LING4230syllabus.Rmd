@@ -31,6 +31,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # **LING 4230: Language and the Brain**\
 Instructor: [Chandan Narayan](https://ch-narayan.github.io)\
 Office hours: Mondays noon-1 or Wednesdays on Zoom (email to set up appt) [Zoom link](https://yorku.zoom.us/j/97755816919?pwd=L1krNjJlUm9TL2RWWE1HWnZwNXZLQT09)\
+A print version of this syllabus is here: [LING4230syllabus](LING4230syllabus.pdf)
 
 ## Course Outline and Schedule
 
