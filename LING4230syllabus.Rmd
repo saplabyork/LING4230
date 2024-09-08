@@ -118,7 +118,7 @@ In the period between the last day to drop a course without receiving a grade an
 
 | Week | Date |  Topic                  | Chapter    | Articles     |
 |------|------|-------------------------|---------|--------------|
-| 1    | 9/09 | Intro-Scope and History | Ch.1    |              |
+| 1    | 9/09 | Intro:Scope and History | Ch.1    |              |
 | 2    | 9/16 | Brain structures       | Ch.2     | -            |
 | 3    | 9/23 | Sounds 1                | Ch.3    | [Kubanek et al.(2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053398); [Mesgarani et al. (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350233/)|
 | 4    | 9/30 | Sounds 2                | Ch.3    | [Saoud et al. (2012)](https://www.jneurosci.org/content/jneuro/32/1/275.full.pdf); [van Wassenhove et al. (2007)](https://www.utdallas.edu/~assmann/hcs6367/van_wassenhove_grant_poeppel07.pdf); [Sohoglu et al.(2012)](https://www.jneurosci.org/content/jneuro/32/25/8443.full.pdf)             |
