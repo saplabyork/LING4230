@@ -78,9 +78,9 @@ We will go over the day's lecture and discuss issues and problems presented in t
 
 #### Article questions
 
-Students are responsible for submitting four sets of questions for articles we read during the term. Any four articles can be chosen by the student. Students should offer at least 2 (though more questions the better for your mark) questions about the article. The questions should be informed and thoughtful. **Do not give me questions like "What about bilinguals?"** or questions that are extremely broad and scope. They can be questions about methodology, previous research, interpretation of the data or the conclusions drawn.
+Students are responsible for submitting **four** (4) sets of questions for articles we read during the term. Any four articles can be chosen by the student. Students should offer at least 2 (though more questions the better for your mark) questions about the article. The questions should be informed and thoughtful. **Do not give me questions like "What about bilinguals?"** or questions that are extremely broad and scope. They can be questions about methodology, previous research, interpretation of the data or the conclusions drawn.
 
-Questions must be submitted in **hard copy** on the day when we are discussing the particular article at the beginning of class. For example, if you choose to provide questions for a paper in week 5, submit them at the start of week 5's class. Questions must be typed or **neatly** handwritten and must include your name, the question set (i.e., "Set #2" if it's the second set of questions you're submitting), and the article name and author in the heading. 
+Questions must be submitted in **hard copy** on the day when we are discussing the particular article at the beginning of class. For example, if you choose to provide questions for a paper in week 5, submit them at the start of week 5's class. Questions must be typed or **neatly** handwritten and must include your name, the question set (i.e., "Set #2" if it's the second set of questions you're submitting), and the article name and author in the heading. Each set of questions if worth 5% of your grade. If you submit competent questions (and you do everything I ask regarding labelling the question set, etc.) then you can expect to get full marks on the assignment. That is, I'm not grading the quality of your questions per se.
 
 **You must have submitted questions for two (2) articles by October 28th's class.**
 
@@ -90,7 +90,7 @@ As explained above, student's are responsible for one article presentation durin
 
 * Introduce the problem/question asked by the article
 * Provide some background on what the article says has already been done regarding this topic
-* Breifly explain the methodology used in the experiment
+* Briefly explain the methodology used in the experiment
 * Explain the results of the experiment(s), using visuals like graphs and plots, along with your own explanations
 * What does this mean for the original question being asked?
 * Any questions you might have about the research
