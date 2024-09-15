@@ -99,6 +99,8 @@ As explained above, student's are responsible for one article presentation durin
 * What does this mean for the original question being asked?
 * Any questions you might have about the research
 
+Here are some sample presentations. Good ones ([this](docs/Hicock.pdf), [this](docs/LING 4320 miglietta 2013.pdf)). Too much text on the slides in [this](LING 4230 - presentation slides.pdf) and [this.](docs/article_20.pdf)
+
 #### Annotated bibliography and Final paper
 
 The final paper consists of two pieces of work: an annotated bibliography and the paper itself. Students, **in consultation with the me** (please talk with me about your ideas a few weeks into the course), will come up with a paper topic. The paper can be either 1) A state-of-the-art report on a particular topic, or 2) a faux experimental paper that addresses a particular question in-line with the readings done in class. The paper should clearly articulate the history of the particular line of thinking and approach to the topic. Sample topics include: The genetic basis for speech (FOXP2); Cochlear implantation and language processing; Neural correlates of categorical perception; etc. Some sample papers will be posted on line.
