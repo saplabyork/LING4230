@@ -99,7 +99,7 @@ As explained above, student's are responsible for one article presentation durin
 * What does this mean for the original question being asked?
 * Any questions you might have about the research
 
-Here are some sample presentations. Good ones: [this](docs/Hicock.pdf) and [this](docs/LING 4320 miglietta 2013.pdf). Too much text on the slides in [this](LING 4230 - presentation slides.pdf) and [this.](docs/article_20.pdf)
+Here are some sample presentations. Good ones: [this](Mauti-21_plasticity.pdf) and [this](LING 4320 miglietta 2013.pdf). Too much text on the slides in [this](LING 4230 - presentation slides.pdf) and [this.](article_20.pdf)
 
 #### Annotated bibliography and Final paper
 
