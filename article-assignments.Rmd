@@ -50,8 +50,10 @@ knitr::opts_chunk$set(echo = TRUE)
 |218880070|[Huth and Gallant (2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4852309/)|
 |218214130|[Pobric et al. (2007)](https://www.pnas.org/doi/full/10.1073/pnas.0707383104)|
 |218794008|[Pulvermüller et al.(2005)](https://sci-hub.se/10.1111/j.1460-9568.2005.03900.x)|
+|218975987|[Holcomb (1988)](http://neurocoglabs.sdsu.edu/manuscripts/01.Holcomb1988.pdf)|
 |216871949|[Federmeier and Kutas (1999)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8aec17d667f5b58fe2d9473a94553b13c6fd63a7)|
 |218391334|[van Berkum et al.(2003)](https://pure.mpg.de/rest/items/item_59347/component/file_59348/content)|
+|218801746|[Chow et al.(2016)](https://www.tandfonline.com/doi/pdf/10.1080/23273798.2015.1066832?casa_token=rmJx9Y2NmTgAAAAA:WTijYCC7BY7zm3itNZfeXh43aa5taAIVVX6Q-G9LBmzEttgcxayhYL4bpq9sDcYfVymO0tnHII8)|
 |219045970|[Gouvea et al. (2010)](https://www.researchgate.net/profile/Colin-Phillips-3/publication/228641799_The_linguistic_processes_underlying_the_P600/links/0912f5097c882409cc000000/The-linguistic-processes-underlying-the-P600.pdf)|
 |219030253|[Klimovich-Gray et al. (2019)](https://www.jneurosci.org/content/jneuro/39/3/519.full.pdf)|
 |218744201|[Pallier et al.(2011)](https://www.pnas.org/doi/full/10.1073/pnas.1018711108)|
