@@ -59,5 +59,6 @@ knitr::opts_chunk$set(echo = TRUE)
 |218744201|[Pallier et al.(2011)](https://www.pnas.org/doi/full/10.1073/pnas.1018711108)|
 |218839738|[Bemis and Pylkkänen (2011)](https://www.jneurosci.org/content/jneuro/31/8/2801.full.pdf)|
 |219214220|[Frankland and Greene (2015)](https://www.pnas.org/doi/full/10.1073/pnas.1421236112)|
+|219201011|[Brennan and Hale (2019)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0207741&type=printable)|
 |218828962|[Matchin et al.(2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4252493/)|
 |218935502|[Amici et al.(2007)](https://www.jneurosci.org/content/jneuro/27/23/6282.full.pdf) |
