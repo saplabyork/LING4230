@@ -53,7 +53,7 @@ Möttönen and Watkins (2009): rTMS study where the motor cortex is temporarily 
 
 But wait, there are cases where speech perception remains intact while speech production is affected after some brain injury or assault, namely Broca's aphasia. In Rogalsky and Hicock's (2011) study they describe five cases where patients with leisons (damage) on the motor cortex are successful at speech perception but have severely impaired production. 
 
-The takeaway is that the motor system is definitely engages during speech perception but is not **necessary** for the task. 
+The takeaway is that the motor system is definitely engaged during speech perception but is not **necessary** for the task. 
 
 # Motor theory of speech perception
 
