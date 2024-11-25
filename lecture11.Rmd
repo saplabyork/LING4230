@@ -33,7 +33,7 @@ What distinguishes "ball-John-the-into-kicks-net-the" from "John-kicks-the-ball-
 
 # The combinatoric network
 
-The book calls the temporal and frontal lobe areas (specifically the STG and IFG) calls this the *combinatoric network*--which serves ar the areas of the brain responsible for understanding sentences. But what functions do these areas *actually* serve? Pallier et al. also included pseudowords in their sentence stimuli, which retain grammatical words so there is phrase structure (*Jabberwocky*). The brain responds differently to sentences with real words versus pseudowords. Activity in the left anterior temporal lobe increases only when stimuli contain real words.
+The book calls the temporal and frontal lobe areas (specifically the STG and IFG) calls this the *combinatoric network*--which serves as the areas of the brain responsible for understanding sentences. But what functions do these areas *actually* serve? Pallier et al. also included pseudowords in their sentence stimuli, which retain grammatical words so there is phrase structure (*Jabberwocky*). The brain responds differently to sentences with real words versus pseudowords. Activity in the left anterior temporal lobe increases only when stimuli contain real words.
 
 <p align="center">
   <img src="images/jabberwocky-temporal.png" width = "60%">
@@ -56,6 +56,6 @@ MEG during picture-matching tasks like this show a neural pattern that indicates
 
 ## LATL for composition or semantic combination?
 
-While results like Pylkkänen suggest that LATL is simply putting words together, there is evidence that that same region is involved in semantic computation in sentence comprehension as well. Remember the "semantic hub" from a few lectures ago in the context of semantic dementia? Well the semantic hub in that literature was the LATL! Pylkkänen investigated whether LATL is engaged in just composition or a *specified* conceptual meaning, so not just building phrases but building specificity: would "tomato soup" engage LATL more than "vegetable dish"? The results are more complicated that that (sadly) and the factors of structure building and conceptual specificity interact. See book p.147 for the details. 
+While results like Pylkkänen suggest that LATL is simply putting words together, there is evidence that that same region is involved in semantic computation in sentence comprehension as well. Remember the "semantic hub" from a few lectures ago in the context of semantic dementia? Well the semantic hub in that literature was the LATL! Pylkkänen investigated whether LATL is engaged in just composition or a *specified* conceptual meaning, so not just building phrases but building specificity: would "tomato soup" engage LATL more than "vegetable dish"? The results are more complicated than that (sadly) and the factors of structure building and conceptual specificity interact. See book p.147 for the details. 
 
 But the takeaway is clear: The LATL is involved in a process that combines the conceptual features of words--> when the phrase does not alter conceptual features, then LATL is not engaged. So, "two boats" engages LATL while "the boat" doesn't seem to. 
