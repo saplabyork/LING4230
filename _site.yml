@@ -1,6 +1,6 @@
 name: "LING4230"
 navbar:
-  title: "LING4320: Language and the Brain"
+  title: "LING 4230: Language and the Brain"
   left:
     - text: "Home"
       href: index.html
