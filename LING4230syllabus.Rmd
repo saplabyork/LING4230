@@ -80,13 +80,13 @@ We will go over the day's lecture and discuss issues and problems presented in t
 
 Students are responsible for submitting **four** (4) sets of questions for articles we read during the term. Any four articles can be chosen by the student. Students should offer at least 2 (though more questions the better for your mark) questions about the article. The questions should be informed and thoughtful. **Do not give me questions like "What about bilinguals?"** or questions that are extremely broad and scope. They can be questions about methodology, previous research, interpretation of the data or the conclusions drawn.
 
-Questions must be submitted in **hard copy** on the day when we are discussing the particular article at the beginning of class. For example, if you choose to provide questions for a paper in week 5, submit them at the start of week 5's class. Questions must be typed or **neatly** handwritten and must include your name, the question set (i.e., "Set #2" if it's the second set of questions you're submitting), and the article name and author in the heading. Each set of questions if worth 5% of your grade. If you submit competent questions (and you do everything I ask regarding labelling the question set, etc.) then you can expect to get full marks on the assignment. That is, I'm not grading the quality of your questions per se.
+Questions must be submitted via the eClass submission portal on the day we are discussing the particular article (by the beginning of class). For example, if you choose to provide questions for a paper in week 5, submit them at the start of week 5's class. Questions must include your name, the question set (i.e., "Set #2" if it's the second set of questions you're submitting), and the article name and author in the heading. Each set of questions if worth 5% of your grade. If you submit competent questions (and you do everything I ask regarding labeling the question set, etc.) then you can expect to get full marks on the assignment. That is, I'm not grading the quality of your questions per se.
 
 **You must have submitted questions for two (2) articles by October 28th's class.**
 
 #### Structure of journal article presentations
 
-As explained above, student's are responsible for one article presentation during the term. The presentation should last around 20 minutes, which means it shouldn't exceed 20 slides. Ideally you will use [slides.google.com](slides.google.com) to compose your presentation so that we can access it seamlessly in class. When you save your file, besure to do so in the following manner: "YOUR_LAST_NAME-ARTICLE_AUTHOR_NAME_Fall2024". The general structure of the presentation should be:
+As explained above, student's are responsible for one article presentation during the term. The presentation should last around 20 minutes, which means it shouldn't exceed 20 slides. Please use [slides.google.com](slides.google.com) to compose your presentation so that we can access it seamlessly in class. When you save your file, besure to do so in the following manner: "YOUR_LAST_NAME-ARTICLE_AUTHOR_NAME_Fall2024". The general structure of the presentation should be:
 
 * Introduce the problem/question asked by the article
 * Provide some background on what the article says has already been done regarding this topic
@@ -97,12 +97,14 @@ As explained above, student's are responsible for one article presentation durin
 
 Here are some sample presentations. Good ones: [this](Mauti-21_plasticity.pdf) and [this](LING 4320 miglietta 2013.pdf). Too much text on the slides in [this](LING 4230 - presentation slides.pdf) and [this.](article_20.pdf)
 
+IMPORTANT: On the day of your presentation be sure to share the Google Slides with me at chandann@gmail.com. This was I can pull up your presentation in class. 
+
 #### Annotated bibliography and Final paper
 
 The final paper consists of two pieces of work: an annotated bibliography and the paper itself. Students, **in consultation with the me** (please talk with me about your ideas a few weeks into the course), will come up with a paper topic. The paper can be either 1) A state-of-the-art report on a particular topic, or 2) a faux experimental paper that addresses a particular question in-line with the readings done in class. The paper should clearly articulate the history of the particular line of thinking and approach to the topic. Sample topics include: The genetic basis for speech (FOXP2); Cochlear implantation and language processing; Neural correlates of categorical perception; etc. Some sample papers will be posted on line.
 
 **The Annotated bibliography is due, via eClass portal anytime during Week 12**
-**The final paper is due by December 11.**
+**The final paper is due by XXX.**
 
 ### Email policy
 If you cannot attend the scheduled office hour, contact me to arrange another time. I will do my best to answer your phone and email messages promptly. I do not, generally, answer email on the weekend. Please email me from your yorku.ca account and put ‘LING 4230’ in the subject line. Emails sent from non-York accounts will be ignored. Please sign your emails; I will not reply to anonymous messages. My response to your email may be brief and may not come within 48 hours. **Please be patient**.
@@ -120,12 +122,12 @@ In the period between the last day to drop a course without receiving a grade an
 
 | Week | Date |  Topic                  | Chapter    | Articles     |
 |------|------|-------------------------|---------|--------------|
-| 1    | 9/09 | Intro:Scope and History | Ch.1    |              |
-| 2    | 9/16 | Brain structures       | Ch.2     | -            |
-| 3    | 9/23 | Sounds 1                | Ch.3    | [Kubanek et al.(2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053398); [Mesgarani et al. (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350233/)|
-| 4    | 9/30 | Sounds 2                | Ch.3    | [Saoud et al. (2012)](https://www.jneurosci.org/content/jneuro/32/1/275.full.pdf); [van Wassenhove et al. (2007)](https://www.utdallas.edu/~assmann/hcs6367/van_wassenhove_grant_poeppel07.pdf); [Sohoglu et al.(2012)](https://www.jneurosci.org/content/jneuro/32/25/8443.full.pdf)             |
-| 5    | 10/7 | Phonemes 1                        | Ch.4     |[Scharinger et al. (2011)](https://www.researchgate.net/profile/William-Idsardi/publication/51123294_A_Comprehensive_Three-dimensional_Cortical_Map_of_Vowel_Space/links/565232c708ae4988a7aef7ca/A-Comprehensive-Three-dimensional-Cortical-Map-of-Vowel-Space.pdf); [Arsenault and Buchsbaum (2015)](https://www.jneurosci.org/content/jneuro/35/2/634.full.pdf);[Virtala et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0278262623000313/pdfft?md5=931540977f2e3a1b9cfa15d66ec0dd87&pid=1-s2.0-S0278262623000313-main.pdf)             |
-|     | 10/14| READING WEEK                            | ---    |   |
+| 1    | 1/05 | Intro:Scope and History | Ch.1    |              |
+| 2    | 1/12 | Brain structures       | Ch.2     | -            |
+| 3    | 1/19 | Sounds 1                | Ch.3    | [Kubanek et al.(2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053398); [Mesgarani et al. (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350233/)|
+| 4    | 1/26 | Sounds 2                | Ch.3    | [Saoud et al. (2012)](https://www.jneurosci.org/content/jneuro/32/1/275.full.pdf); [van Wassenhove et al. (2007)](https://www.utdallas.edu/~assmann/hcs6367/van_wassenhove_grant_poeppel07.pdf); [Sohoglu et al.(2012)](https://www.jneurosci.org/content/jneuro/32/25/8443.full.pdf)             |
+| 5    | 2/02 | Phonemes 1                        | Ch.4     |[Scharinger et al. (2011)](https://www.researchgate.net/profile/William-Idsardi/publication/51123294_A_Comprehensive_Three-dimensional_Cortical_Map_of_Vowel_Space/links/565232c708ae4988a7aef7ca/A-Comprehensive-Three-dimensional-Cortical-Map-of-Vowel-Space.pdf); [Arsenault and Buchsbaum (2015)](https://www.jneurosci.org/content/jneuro/35/2/634.full.pdf);[Virtala et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0278262623000313/pdfft?md5=931540977f2e3a1b9cfa15d66ec0dd87&pid=1-s2.0-S0278262623000313-main.pdf)             |
+|     | 2/09| READING WEEK                            | ---    |   |
 | 6    |10/21 | Phonemes 2                          | Ch.4    |[Maffei et al.(2017)](https://www-sciencedirect-com.ezproxy.library.yorku.ca/science/article/pii/S0010945217303404); [Möttönen and Watkins (2009)](https://www.jneurosci.org/content/jneuro/29/31/9819.full.pdf); [Jochaut et al. (2015)](https://www.frontiersin.org/articles/10.3389/fnhum.2015.00171/full)             |
 | 7    |10/28 | Words                          | Ch.5    | [Davis and Johnsrude (2003)](https://www.jneurosci.org/content/jneuro/23/8/3423.full.pdf);[Marinkovic et al.(2003)](https://www.cell.com/neuron/pdf/S0896-6273(03)00197-1.pdf);[MacGregor et al. (2012)](https://www.nature.com/articles/ncomms1715)             |
 | 8    |11/4  | Semantics                 | Ch.6    |[Huth and Gallant (2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4852309/);[Pobric et al. (2007)](https://www.pnas.org/doi/full/10.1073/pnas.0707383104); [Pulvermüller et al.(2005)](https://sci-hub.se/10.1111/j.1460-9568.2005.03900.x)            |
