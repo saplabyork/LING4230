@@ -88,7 +88,7 @@ Questions must be submitted via the eClass submission portal on the day we are d
 
 #### Structure of journal article presentations
 
-As explained above, student's are responsible for one article presentation during the term. The presentation should last around 20 minutes, which means it shouldn't exceed 20 slides. Please use [slides.google.com](slides.google.com) to compose your presentation so that we can access it seamlessly in class. When you save your file, besure to do so in the following manner: "YOUR_LAST_NAME-ARTICLE_AUTHOR_NAME_Fall2024". The general structure of the presentation should be:
+As explained above, student's are responsible for one article presentation during the term. The presentation should last around 10-12 minutes and shouldn't exceed 20 slides. Please use [slides.google.com](slides.google.com) to compose your presentation so that we can access it seamlessly in class. When you save your file, besure to do so in the following manner: "YOUR_LAST_NAME-ARTICLE_AUTHOR_NAME_Fall2024". The general structure of the presentation should be:
 
 * Introduce the problem/question asked by the article
 * Provide some background on what the article says has already been done regarding this topic
