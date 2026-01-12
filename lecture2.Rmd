@@ -108,13 +108,13 @@ The distribution of neurons for each part of the body in the motor and somatosen
 
 ### Terminology
 
-Don't be suprised when primary research articles abbreviate the names of these cerebral areas. For example, we will often see **STG** and **IFG**, which refer to superior tempral gyrus and inferior frontal gyrus respectively. STG is the superior most gyrus of the temporal lobe, while IFG is the inferior most gyrus of the frontal lobe. Don't balk at looking up these terms!
+Don't be suprised when primary research articles abbreviate the names of these cerebral areas. For example, we will often see **STG** and **IFG**, which refer to superior temporal gyrus and inferior frontal gyrus respectively. STG is the superior most gyrus of the temporal lobe, while IFG is the inferior most gyrus of the frontal lobe. Don't balk at looking up these terms!
 
 ### Micro-anatomy
 
 The cerebral structures we've described are general areas that might be active during any cerebral activity, but what exactly is happening when any part of the brain is active, or "lights up"?
 
-The *stuff* of the nervous system (of which the cerbrum is a major structure), are **neurons**, of which there are approximately 100 million! The neuron consists of two major parts: the cell body or **soma** and the **axon** which is like a long branch extending out from the soma. **Dendrite** extend from the soma and are shorter than the axon. 
+The *stuff* of the nervous system (of which the cerebrum is a major structure), are **neurons**, of which there are approximately 100 million! The neuron consists of two major parts: the cell body or **soma** and the **axon** which is like a long branch extending out from the soma. **Dendrite** extend from the soma and are shorter than the axon. 
 
 ![](images/neuron.png){width=75%}
 
@@ -124,13 +124,13 @@ As can be seen in the image below, one neuron's axon "connects" to another neuro
 
 Neurons communicate with other neurons with electrical current. The term used in neuroscientific literature for this electrical current is **action potential**. The action potential sent along the axon of a particular neuron and evokes a chemical interaction at the synapse, ultimately changing the electrical potential (voltage) of the receiving neuron. This electrical activity is as added or summed across many neurons in a particular area and can be measured. 
 
-There are two types of connections between neurons: **excititory** and **inhibitory**. An excititory connection increases the probability that the receiving neuron itself fires off an action potential, while an inhibitory connection reduces that probability. Cylces of electrical discharge and rest can occur 1-250Hz.
+There are two types of connections between neurons: **excitatory** and **inhibitory**. An excitatory connection increases the probability that the receiving neuron itself fires off an action potential, while an inhibitory connection reduces that probability. Cycles of electrical discharge and rest can occur 1-250Hz.
 
 Cell bodies (the soma) reside on the surface of the cortex, the **grey matter** of the brain, while the axons lie below making up the **white matter**. 
 
 ![](images/grey-white-matter.png){width=75%}
 
-The white colour of the white matter is a result of the conductive sheath that surrounds the axon called **myelin**. 
+The white colour of the white matter is a result of the conductive sheath that surrounds the axon called **myelin**, which is a lipid (like fat) cover around the axon. The myelin covering is often likened to the plastic covering around the electrical or speaker wire. 
 
 Cell bodies are not uniformly lined up in the grey matter, but rather span different layers of grey matter (beyond the scope of this class and perhaps not relevant to language processing). Cell bodies are also clumped together in areas across the cortex according to their neuronal organization, resulting smaller regions that carry out particular functions. *Brodmann* mapped out 52 such areas across the cortex. These **Brodmann Areas** are number that refer to specific areas on the cortex. Brodmann Areas are abbreviated "BA" and commonly used in the literature (e.g., BA 45, BA3, etc.)
 
