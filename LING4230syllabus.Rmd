@@ -82,13 +82,17 @@ We will go over the day's lecture and discuss issues and problems presented in t
 
 Students are responsible for submitting **four** (4) sets of questions for articles we read during the term. Any four articles can be chosen by the student. Students should offer at least 2 (though more questions the better for your mark) questions about the article. The questions should be informed and thoughtful. **Do not give me questions like "What about bilinguals?"** or questions that are extremely broad and scope. They can be questions about methodology, previous research, interpretation of the data or the conclusions drawn.
 
-Questions must be submitted via the eClass submission portal on the day we are discussing the particular article (by the beginning of class). For example, if you choose to provide questions for a paper in week 5, submit them at the start of week 5's class. Questions must include your name, the question set (i.e., "Set #2" if it's the second set of questions you're submitting), and the article name and author in the heading. Each set of questions if worth 5% of your grade. If you submit competent questions (and you do everything I ask regarding labeling the question set, etc.) then you can expect to get full marks on the assignment. That is, I'm not grading the quality of your questions per se.
+Questions must be submitted via the eClass submission portal on the day we are discussing the particular article (by the beginning of class). For example, if you choose to provide questions for a paper in week 5, submit them at the start of week 5's class. Questions must include your name, the question set (i.e., "Set #2" if it's the second set of questions you're submitting), and the article name and author in the heading. 
+
+Please name your files like this: YOUR_LAST_NAME-Week#-QuestionSet#.pdf
+
+Each set of questions if worth 5% of your grade. If you submit competent questions (and you do everything I ask regarding labeling the question set, etc.) then you can expect to get full marks on the assignment. That is, I'm not grading the quality of your questions per se.
 
 **You must have submitted questions for two (2) articles by 2/23.**
 
 #### Structure of journal article presentations
 
-As explained above, student's are responsible for one article presentation during the term. The presentation should last around 10-12 minutes and shouldn't exceed 20 slides. Please use [slides.google.com](slides.google.com) to compose your presentation so that we can access it seamlessly in class. When you save your file, besure to do so in the following manner: "YOUR_LAST_NAME-ARTICLE_AUTHOR_NAME_Fall2024". The general structure of the presentation should be:
+As explained above, student's are responsible for one article presentation during the term. The presentation should last around 10-12 minutes and shouldn't exceed 20 slides. Please use [slides.google.com](slides.google.com) to compose your presentation so that we can access it seamlessly in class. When you save your file, besure to do so in the following manner: "YOUR_LAST_NAME-ARTICLE_AUTHOR_NAME_Winter2026". The general structure of the presentation should be:
 
 * Introduce the problem/question asked by the article
 * Provide some background on what the article says has already been done regarding this topic
