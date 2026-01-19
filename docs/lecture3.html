@@ -13,7 +13,7 @@
 
 <title>Sounds 1</title>
 
-<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.30/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
@@ -315,7 +315,7 @@ div.tocify {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">LING4320 - Language and the Brain</a>
+      <a class="navbar-brand" href="index.html">LING 4230: Language and the Brain</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -432,13 +432,13 @@ spectro-temporal output.</p>
 </div>
 <div id="low-level-speech-representation" class="section level1">
 <h1>Low-level speech representation</h1>
-<p>The acoustic “image” that represent using a spectrogram is the result
-of two systems: a <strong>source</strong> system consisting of the vocal
-folds, which are set into motion because of various physical phenomena
-(Bernoulli effect). The result is a <em>complex periodic</em> sound
-consisting of a fundamental frequency (pyschological “pitch”) and higher
-harmonics (that are related to the fundamental). In the image below see
-the “source function” as a line spectrum.</p>
+<p>The acoustic “image” that is represented using a spectrogram is the
+result of two systems: a <strong>source</strong> system consisting of
+the vocal folds, which are set into motion because of various physical
+phenomena (Bernoulli effect). The result is a <em>complex periodic</em>
+sound consisting of a fundamental frequency (pyschological “pitch”) and
+higher harmonics (that are related to the fundamental). In the image
+below see the “source function” as a line spectrum.</p>
 <p>Above the vocal folds is the oral cavity which is the
 <strong>filter</strong> system. The filter shapes the source energy in
 specific ways depending on the shape of the mouth. The mouth
@@ -463,7 +463,19 @@ what your ear/cochlea/first stop in auditory pathway is receiving:</p>
 <div id="tonotopy-in-the-cochlea" class="section level1">
 <h1>Tonotopy in the cochlea</h1>
 <p>We know that the cochlea “resolves” the incoming speech signal by
-performing Fourier analysis:</p>
+performing something akin to Fourier analysis. Hopefully you have
+learned from previous courses on Phonetics or Acoustics that Fourier
+analysis basically takes a complex wave (typically periodic) and
+decomposes it to its basic (or pure) tones, that is, all complex
+periodic sounds (like vowels or musical notes) are composed of multiple
+pure tones (or sine waves). I found the following image on the net and
+thought it was a nice analogy for Fourier analysis:</p>
+<p align="center">
+<img src="images/fourier_smoothie.png" width="70%" height="70%">
+</p>
+<p><br />
+</p>
+<p>The cochlea does something very similar to this:</p>
 <p align="center">
 <img src="images/cochlea-tonotopy.png" width="50%" height="50%">
 </p>

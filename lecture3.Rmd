@@ -45,7 +45,7 @@ The neuro-auditory representation is essentially the parameters of the spectrogr
 
 # Low-level speech representation
 
-The acoustic "image" that represent using a spectrogram is the result of two systems: a **source** system consisting of the vocal folds, which are set into motion because of various physical phenomena (Bernoulli effect). The result is a *complex periodic* sound consisting of a fundamental frequency (pyschological "pitch") and higher harmonics (that are related to the fundamental). In the image below see the "source function" as a line spectrum. 
+The acoustic "image" that is represented using a spectrogram is the result of two systems: a **source** system consisting of the vocal folds, which are set into motion because of various physical phenomena (Bernoulli effect). The result is a *complex periodic* sound consisting of a fundamental frequency (pyschological "pitch") and higher harmonics (that are related to the fundamental). In the image below see the "source function" as a line spectrum. 
 
 Above the vocal folds is the oral cavity which is the **filter** system. The filter shapes the source energy in specific ways depending on the shape of the mouth. The mouth configuration either amplifies or dampens various parts of the source spectrum. This results in formant structure, or areas of loud frequencies.
 
@@ -63,7 +63,14 @@ This source-filter interaction results in a complex spectro (energy in frequency
 
 # Tonotopy in the cochlea
 
-We know that the cochlea "resolves" the incoming speech signal by performing Fourier analysis:
+We know that the cochlea "resolves" the incoming speech signal by performing something akin to Fourier analysis. Hopefully you have learned from previous courses on Phonetics or Acoustics that Fourier analysis basically takes a complex wave (typically periodic) and decomposes it to its basic (or pure) tones, that is, all complex periodic sounds (like vowels or musical notes) are composed of multiple pure tones (or sine waves). I found the following image on the net and thought it was a nice analogy for Fourier analysis:
+
+<p align="center">
+  <img src="images/fourier_smoothie.png" width="70%" height="70%">
+</p>
+\
+
+The cochlea does something very similar to this:
 
 <p align="center">
   <img src="images/cochlea-tonotopy.png" width="50%" height="50%">
