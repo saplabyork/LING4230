@@ -119,7 +119,12 @@ It turns out that we can alter the entrainment of the incoming speech signal, re
 
 # Neurograms
 
-Now that we've shown how the brain tracks temporal information, we have to ask what about frequency information that distinguishes phonemes from one another. Barton et al. (2010) did a MRI experiment where subjects heard tone sweeps as well as period sweeps, where noise in speech bands (like formants) were turned off and on with specific periods. It turns out that the BOLD signal responds to both in similar areas of the auditory cortex. All of this to say, the brain represents both frequency and temporal information in the auditory cortex. The "map" of the response to these types of stimuli result in what's called a **neurogram** (like *spectrogram*) 
+Now that we've shown how the brain tracks temporal information, we have to ask what about frequency information that distinguishes phonemes from one another. Barton et al. (2010) did a MRI experiment where subjects heard tone sweeps as well as period sweeps, where noise in speech bands (like formants) were turned off and on with specific periods. It turns out that the BOLD signal responds to both in similar areas of the auditory cortex. All of this to say, the brain represents both frequency and temporal information in the auditory cortex. The "map" of the response to these types of stimuli result in what's called a **neurogram** (like *spectrogram*). Below is an image from [this](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158520) paper, showing a waveform, spectrogram, and corresponding neurogram of some speech.
+
+<p align="center">
+  <img src="images/neurogram_spectrogram.png" width="70%" height="70%">
+</p>
+\
 
 ## From neurogram to phoneme
 
