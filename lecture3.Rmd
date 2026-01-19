@@ -107,11 +107,11 @@ The temporal "envelope" is the shape of the time-varying amplitude signal. In th
 
 We will learn (in detail) from a paper by [Kubanek et al. (2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053398) that the brain tracks this temporal envelope rather accurately in the auditory cortex as well language areas STG (superior temporal gyrus) and Broca's area (IFG, inferior frontal gyrus). This *tracking* of the temporal signal is called **entrainment**, or the synchronization of neuronal activity to an external stimuli. Entrainment in the brain is found for lots of different external stimuli such as speech, music, and even tactile stimuli.
 
-Entrainment is a more general phsyical concept that is evident when small amounts of energy is transferred between oscillating bodies that are initially out of phase, but soon "lock on" to a particular frequency, as in this [famous metronome experiment](https://www.youtube.com/watch?v=T58lGKREubo&t=1s).
+Entrainment is a more general physical concept that is evident when small amounts of energy is transferred between oscillating bodies that are initially out of phase, but soon "lock on" to a particular frequency, as in this [famous metronome experiment](https://www.youtube.com/watch?v=T58lGKREubo&t=1s).
 
 ## Cocktail party effect
 
-Entrianment suggests that incoming speech is fully analyzed or represented very early on in the speech decomposition stream in the brain. Kubanek et al. show that the envelope is tracked by the auditory cortex. The question then becomes, does our brain spend all of this neuronal effort in tracking all speech that enters our ears?
+Entrianment suggests that incoming speech is fully analyzed or represented very early on in the speech decomposition stream in the brain. Kubanek et al. show that the envelope is tracked by the auditory cortex. The question then becomes, does our brain spend all of this neuronal effort in tracking **all** speech that enters our ears?
 
 No, our brain is selective in what it chooses to decompose or represent for further linguistic analysis. The best example of this is the **cocktail party effect**. This is a common phenomenon whereby the speech signal is selectively attended to despite there being lots of background speech noise. Imagine you're at a party where lots of people are talking. We have the ability to home in on a particular conversation (we "attend" to it) and block out all of the other conversations.There is an amazing [wiki](https://en.wikipedia.org/wiki/Cocktail_party_effect) article about it.
 
