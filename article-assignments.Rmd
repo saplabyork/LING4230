@@ -62,7 +62,7 @@ knitr::opts_chunk$set(echo = TRUE)
 |219650183|[Brennan and Hale (2019)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0207741&type=printable)|
 |219678069|[Matchin et al.(2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4252493/)|
 |219680768|[Amici et al.(2007)](https://www.jneurosci.org/content/jneuro/27/23/6282.full.pdf) |
-|219712983|[Samson and Pillon (2003)](https://www.tandfonline.com/doi/pdf/10.1080/02643290244000329?casa_token=1Jaj7tt9vMIAAAAA:Wg8FkrZ5XqJXzfO13IcTGpm7oc7qzcWBGNzFyWa7uAv4mZ9Np_PdK01M0o9iTgpmBpW03c3Ed3iyiDU) |
+|219712983|[Samson and Pillon (2003)](https://www.dropbox.com/scl/fi/32hywog8ff3hcoa9q2irp/samson_pillon.pdf?rlkey=b3yeidn6u0hqyc8icgwzw7ovh&st=ld3leapf&dl=0) |
 |219719251|[Zhang and Pylkkänen (2015)](https://www.sciencedirect.com/science/article/pii/S1053811915001299?casa_token=s58COVmQcKUAAAAA:zS5cdnhCVsPD49tUiXmxZmJIlsyakkfx4SCrvY8yISgFNZlZNlqR4vTEteXCuwXZIr1Dp18CKuER) |
 |220637823|[Kim and Osterhout (2005)](https://www.sciencedirect.com/science/article/pii/S0749596X04001159?casa_token=syx2b3DlZoUAAAAA:_MzIWYxpS6aFcI3EhUIFMQD5xnQP5YWsOk2Y01bDzdOiYwPyMJsW8SeTvTE4IFmm8mnaZngDrOlO) |
 |218801597|[Yi et al. (2019)](https://scholar.google.ca/scholar?output=instlink&q=info:jRVmEnUVyOoJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=13820588138082978098&oi=lle)|
