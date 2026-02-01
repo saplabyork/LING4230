@@ -41,6 +41,7 @@ These two purposes for speech perception find neurological evidence in Hicock an
 The two streams can be thought of like this:
 
 *Understanding* --> Ventral
+
 *Non-understanding* --> Dorsal
 
 Language-processing necessarily involves the ventral stream, which will be the focus of this section on representation of speech as **phonemic** information. But, the book makes the point that the activation in the brain given a language (speech in this case) signal is dependent on what we are asking the subject to do with that stimulus. 
