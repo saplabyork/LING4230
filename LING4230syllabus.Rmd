@@ -114,6 +114,13 @@ Some sample papers will be posted on line.
 
 For the annotate bibliography and final paper you will work in PAIRS. Please find a partner to work with. In special circumstances I will allow you to work on your own. 
 
+The Annotate bibliography should reflect *at least* ten sources. There is no specific page count or word count, as long as you communicate the main findings of each paper you should be good. Most of the research you will be consiulting will have detailed methodology and statistical analysis. Your AB should not include this information, but rather it should reflect the question of the article, how it was addressed (what methods were used), the results and the authors' interpretation. 
+
+[Here](https://advice.writing.utoronto.ca/types-of-writing/annotated-bibliography/) is a nice tutorial on how to write an annotate bibliography. Make sure your references are in APA style. 
+
+* Here is a sample [Annotated Bibliography](docs/LING4230_SampleAB.pdf)
+* Here are sample papers: [1](docs/EXPERIMENTAL_PAPER_MODEL1.pdf), [2](docs/EXPERIMENTAL_PAPER_MODEL2.pdf)
+
 **The Annotated bibliography is due, via eClass portal anytime during Week 10**
 **The final paper is due by XXX.**
 
