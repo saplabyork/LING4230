@@ -49,7 +49,7 @@ knitr::opts_chunk$set(echo = TRUE)
 |219434299|[MacGregor et al. (2012)](https://www.nature.com/articles/ncomms1715)|
 |219440361|[Huth and Gallant (2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4852309/)|
 |219444678|[Pobric et al. (2007)](https://www.pnas.org/doi/full/10.1073/pnas.0707383104)|
-|219461813|[Pulvermüller et al.(2005)](https://sci-hub.se/10.1111/j.1460-9568.2005.03900.x)|
+|219461813|[Pulvermüller et al.(2005)](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1460-9568.2005.03900.x?casa_token=OPbkR8I8srMAAAAA:1hPmx5Rpkfkiw7JNHCeA_WSimuEcRDHIVa6-F4CSLqatb6HuCZ6u1FunjD4YI3_dLw79vc0o4NjT)|
 |219515725|[Holcomb (1988)](http://neurocoglabs.sdsu.edu/manuscripts/01.Holcomb1988.pdf)|
 |219544618|[Federmeier and Kutas (1999)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8aec17d667f5b58fe2d9473a94553b13c6fd63a7)|
 |219570712|[van Berkum et al.(2003)](https://pure.mpg.de/rest/items/item_59347/component/file_59348/content)|
