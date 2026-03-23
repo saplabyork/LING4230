@@ -33,7 +33,7 @@ What distinguishes "ball-John-the-into-kicks-net-the" from "John-kicks-the-ball-
 
 # The combinatoric network
 
-The book calls the temporal and frontal lobe areas (specifically the STG and IFG) calls this the *combinatoric network*--which serves as the areas of the brain responsible for understanding sentences. But what functions do these areas *actually* serve? Pallier et al. also included pseudowords in their sentence stimuli, which retain grammatical words so there is phrase structure (*Jabberwocky*). The brain responds differently to sentences with real words versus pseudowords. Activity in the left anterior temporal lobe increases only when stimuli contain real words.
+The book calls the temporal and frontal lobe areas (specifically the STG and IFG) the *combinatoric network*--which serves as the areas of the brain responsible for understanding sentences. But what functions do these areas *actually* serve? Pallier et al. also included pseudowords in their sentence stimuli, which retain grammatical words so there is phrase structure (*Jabberwocky*). The brain responds differently to sentences with real words versus pseudowords. Activity in the left anterior temporal lobe increases only when stimuli contain real words.
 
 <p align="center">
   <img src="images/jabberwocky-temporal.png" width = "60%">
