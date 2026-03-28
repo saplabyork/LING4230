@@ -59,7 +59,7 @@ knitr::opts_chunk$set(echo = TRUE)
 |219621580|[Pallier et al.(2011)](https://www.pnas.org/doi/full/10.1073/pnas.1018711108)|
 |219640614|[Bemis and Pylkkänen (2011)](https://www.jneurosci.org/content/jneuro/31/8/2801.full.pdf)|
 |219646645|[Frankland and Greene (2015)](https://www.pnas.org/doi/full/10.1073/pnas.1421236112)|
-|219650183|[Brennan and Hale (2019)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0207741&type=printable)|
+|219650183|[Amici et al.(2007)](https://www.jneurosci.org/content/27/23/6282)|
 |219678069|[Matchin et al.(2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4252493/)|
 |219680768|[Amici et al.(2007)](https://www.jneurosci.org/content/jneuro/27/23/6282.full.pdf) |
 |219712983|[Samson and Pillon (2003)](https://www.dropbox.com/scl/fi/32hywog8ff3hcoa9q2irp/samson_pillon.pdf?rlkey=b3yeidn6u0hqyc8icgwzw7ovh&st=ld3leapf&dl=0) |
